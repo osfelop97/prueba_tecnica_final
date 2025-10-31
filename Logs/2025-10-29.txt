@@ -1,0 +1,313 @@
+﻿2025-10-29 22:00:21;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-29 22:00:33;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-29 22:00:33;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-29 22:00:33;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-29.xlsx 
+2025-10-29 22:00:33;DEBUG;ExcelReport.pix; Total 20 
+2025-10-29 22:00:33;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-29 22:00:33;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 22:00:33;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 22:00:33;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-29 22:00:38;DEBUG;Fecha de envio 10/29/2025 
+2025-10-29 22:00:43;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\RPA\Reportes\reportes_2025-10-29.xlsx
+2025-10-29 22:00:53;INFO;SendReport.pix;Reporte enviado con exito
+2025-10-29 22:00:55;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 22:00:55;DEBUG;UploadOnedrive.pix;3 Cantidad items en ruta 
+2025-10-29 22:00:55;DEBUG;UploadOnedrive.pix;1 Contador 
+2025-10-29 22:00:55;DEBUG;UploadOnedrive.pix;RPA item en proceso 
+2025-10-29 22:00:55;DEBUG;UploadOnedrive.pix;RPA Path concatenado 
+2025-10-29 22:00:55;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA 
+2025-10-29 22:00:56;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T02:28:56Z","eTag":"\"{86EF18EA-5160-40E5-B705-CF203DCD74A0},2\"","id":"01J4OVHX7KDDXYMYCR4VALOBOPEA6425FA","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T02:28:56Z","name":"RPA","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX56Y2GOVW7725BZO354PWSELRRZ","name":"Documents","path":"/drive/root:","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA","cTag":"\"c:{86EF18EA-5160-40E5-B705-CF203DCD74A0},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T02:28:56Z","lastModifiedDateTime":"2025-10-30T02:28:56Z"},"folder":{"childCount":0},"size":0}
+2025-10-29 22:00:56;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 22:00:56;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 22:00:56;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 22:00:56;DEBUG;UploadOnedrive.pix;2 Contador 
+2025-10-29 22:00:56;DEBUG;UploadOnedrive.pix;Reportes item en proceso 
+2025-10-29 22:00:56;DEBUG;UploadOnedrive.pix;RPA/Reportes Path concatenado 
+2025-10-29 22:00:56;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes 
+2025-10-29 22:00:56;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"error":{"code":"itemNotFound","message":"The resource could not be found."}}
+2025-10-29 22:00:57;DEBUG;UploadOnedrive.pix;Se crea carpeta RPA con resultado {"error":{"code":"itemNotFound","message":"Item not found","innerError":{"date":"2025-10-30T03:00:56","request-id":"1aaab2e0-8cd7-4747-b486-8153a79857b8","client-request-id":"1aaab2e0-8cd7-4747-b486-8153a79857b8"}}}
+2025-10-29 22:00:57;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 22:00:57;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 22:00:57;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 22:00:57;DEBUG;UploadOnedrive.pix;3 Contador 
+2025-10-29 22:00:57;DEBUG;UploadOnedrive.pix;Reporte_2025-10-29.xlsx item en proceso 
+2025-10-29 22:00:57;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx Path concatenado 
+2025-10-29 22:00:57;INFO;UploadOnedrive.pix;Extension del archivo .xlsx 
+2025-10-29 22:00:57;INFO;UploadOnedrive.pix;Nombre de archivo a subir Reporte_2025-10-29.xlsx 
+2025-10-29 22:00:57;DEBUG;UploadOnedrive.pix;Endpoint para subir archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes/Reporte_2025-10-29.xlsx:/content 
+2025-10-29 22:02:34;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-29 22:05:41;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-29 22:05:41;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-29 22:05:41;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-29.xlsx 
+2025-10-29 22:05:41;DEBUG;ExcelReport.pix; Total 20 
+2025-10-29 22:05:41;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-29 22:05:41;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 22:05:41;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 22:05:41;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-29 22:05:45;DEBUG;Fecha de envio 10/29/2025 
+2025-10-29 22:05:50;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\RPA\Reportes\reportes_2025-10-29.xlsx
+2025-10-29 22:06:01;INFO;SendReport.pix;Reporte enviado con exito
+2025-10-29 22:06:04;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 22:06:04;DEBUG;UploadOnedrive.pix;3 Cantidad items en ruta 
+2025-10-29 22:06:04;DEBUG;UploadOnedrive.pix;1 Contador 
+2025-10-29 22:06:04;DEBUG;UploadOnedrive.pix;RPA item en proceso 
+2025-10-29 22:06:04;DEBUG;UploadOnedrive.pix;RPA Path concatenado 
+2025-10-29 22:06:05;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA 
+2025-10-29 22:06:05;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T02:28:56Z","eTag":"\"{86EF18EA-5160-40E5-B705-CF203DCD74A0},2\"","id":"01J4OVHX7KDDXYMYCR4VALOBOPEA6425FA","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T02:28:56Z","name":"RPA","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX56Y2GOVW7725BZO354PWSELRRZ","name":"Documents","path":"/drive/root:","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA","cTag":"\"c:{86EF18EA-5160-40E5-B705-CF203DCD74A0},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T02:28:56Z","lastModifiedDateTime":"2025-10-30T02:28:56Z"},"folder":{"childCount":0},"size":0}
+2025-10-29 22:06:05;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 22:06:05;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 22:06:05;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 22:06:05;DEBUG;UploadOnedrive.pix;2 Contador 
+2025-10-29 22:06:05;DEBUG;UploadOnedrive.pix;Reportes item en proceso 
+2025-10-29 22:06:05;DEBUG;UploadOnedrive.pix;RPA/Reportes Path concatenado 
+2025-10-29 22:06:05;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes 
+2025-10-29 22:06:06;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"error":{"code":"itemNotFound","message":"The resource could not be found."}}
+2025-10-29 22:06:06;DEBUG;UploadOnedrive.pix;Body request {
+  "name": "Reportes",
+  "folder": {},
+  "@microsoft.graph.conflictBehavior": "fail"
+}\n2025-10-29 22:06:07;DEBUG;UploadOnedrive.pix;Se crea carpeta RPA con resultado {"error":{"code":"itemNotFound","message":"Item not found","innerError":{"date":"2025-10-30T03:06:06","request-id":"fa8fff87-00d4-460d-b155-f3092de6c5fa","client-request-id":"fa8fff87-00d4-460d-b155-f3092de6c5fa"}}}
+2025-10-29 22:06:07;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 22:06:07;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 22:06:07;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 22:06:07;DEBUG;UploadOnedrive.pix;3 Contador 
+2025-10-29 22:06:07;DEBUG;UploadOnedrive.pix;Reporte_2025-10-29.xlsx item en proceso 
+2025-10-29 22:06:07;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx Path concatenado 
+2025-10-29 22:06:07;INFO;UploadOnedrive.pix;Extension del archivo .xlsx 
+2025-10-29 22:06:07;INFO;UploadOnedrive.pix;Nombre de archivo a subir Reporte_2025-10-29.xlsx 
+2025-10-29 22:06:07;DEBUG;UploadOnedrive.pix;Endpoint para subir archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes/Reporte_2025-10-29.xlsx:/content 
+2025-10-29 22:18:48;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-29 22:18:54;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-29 22:18:54;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-29 22:18:54;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-29.xlsx 
+2025-10-29 22:18:54;DEBUG;ExcelReport.pix; Total 20 
+2025-10-29 22:18:54;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-29 22:18:54;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 22:18:54;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 22:18:54;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-29 22:18:59;DEBUG;Fecha de envio 10/29/2025 
+2025-10-29 22:19:05;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\RPA\Reportes\reportes_2025-10-29.xlsx
+2025-10-29 22:19:15;INFO;SendReport.pix;Reporte enviado con exito
+2025-10-29 22:19:18;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 22:19:18;DEBUG;UploadOnedrive.pix;3 Cantidad items en ruta 
+2025-10-29 22:19:18;DEBUG;UploadOnedrive.pix;1 Contador 
+2025-10-29 22:19:19;DEBUG;UploadOnedrive.pix;RPA item en proceso 
+2025-10-29 22:19:19;DEBUG;UploadOnedrive.pix;RPA Path concatenado 
+2025-10-29 22:19:19;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA 
+2025-10-29 22:19:19;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T02:28:56Z","eTag":"\"{86EF18EA-5160-40E5-B705-CF203DCD74A0},2\"","id":"01J4OVHX7KDDXYMYCR4VALOBOPEA6425FA","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T02:28:56Z","name":"RPA","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX56Y2GOVW7725BZO354PWSELRRZ","name":"Documents","path":"/drive/root:","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA","cTag":"\"c:{86EF18EA-5160-40E5-B705-CF203DCD74A0},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T02:28:56Z","lastModifiedDateTime":"2025-10-30T02:28:56Z"},"folder":{"childCount":0},"size":0}
+2025-10-29 22:19:19;DEBUG;UploadOnedrive.pix;2 Contador 
+2025-10-29 22:19:19;DEBUG;UploadOnedrive.pix;Reportes item en proceso 
+2025-10-29 22:19:19;DEBUG;UploadOnedrive.pix;RPA/Reportes Path concatenado 
+2025-10-29 22:19:19;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes 
+2025-10-29 22:19:20;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"error":{"code":"itemNotFound","message":"The resource could not be found."}}
+2025-10-29 22:19:20;DEBUG;UploadOnedrive.pix;Body request {
+  "name": "Reportes",
+  "folder": {},
+  "@microsoft.graph.conflictBehavior": "fail"
+}\n2025-10-29 22:19:21;DEBUG;UploadOnedrive.pix;Se crea carpeta RPA con resultado {"error":{"code":"itemNotFound","message":"Item not found","innerError":{"date":"2025-10-30T03:19:20","request-id":"129e9d9e-06d1-4202-9711-da33b19c47d7","client-request-id":"129e9d9e-06d1-4202-9711-da33b19c47d7"}}}
+2025-10-29 22:19:21;DEBUG;UploadOnedrive.pix;3 Contador 
+2025-10-29 22:19:21;DEBUG;UploadOnedrive.pix;Reporte_2025-10-29.xlsx item en proceso 
+2025-10-29 22:19:21;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx Path concatenado 
+2025-10-29 22:19:21;INFO;UploadOnedrive.pix;Extension del archivo .xlsx 
+2025-10-29 22:19:21;INFO;UploadOnedrive.pix;Nombre de archivo a subir Reporte_2025-10-29.xlsx 
+2025-10-29 22:19:21;DEBUG;UploadOnedrive.pix;Endpoint para subir archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes/Reporte_2025-10-29.xlsx:/content 
+2025-10-29 22:22:18;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-29 22:22:20;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-29 22:22:21;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-29 22:22:21;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-29.xlsx 
+2025-10-29 22:22:21;DEBUG;ExcelReport.pix; Total 20 
+2025-10-29 22:22:21;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-29 22:22:21;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 22:22:21;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 22:22:21;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-29 22:22:25;DEBUG;Fecha de envio 10/29/2025 
+2025-10-29 22:22:30;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\RPA\Reportes\reportes_2025-10-29.xlsx
+2025-10-29 22:22:41;INFO;SendReport.pix;Reporte enviado con exito
+2025-10-29 22:22:42;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 22:22:42;DEBUG;UploadOnedrive.pix;3 Cantidad items en ruta 
+2025-10-29 22:22:42;DEBUG;UploadOnedrive.pix;1 Contador 
+2025-10-29 22:22:42;DEBUG;UploadOnedrive.pix;RPA item en proceso 
+2025-10-29 22:22:42;DEBUG;UploadOnedrive.pix;RPA Path concatenado 
+2025-10-29 22:22:42;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA 
+2025-10-29 22:22:42;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"error":{"code":"itemNotFound","message":"The resource could not be found."}}
+2025-10-29 22:22:42;DEBUG;UploadOnedrive.pix;Body request {
+  "name": "RPA",
+  "folder": {},
+  "@microsoft.graph.conflictBehavior": "fail"
+}\n2025-10-29 22:22:43;DEBUG;UploadOnedrive.pix;Se crea carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#users('1d0615e9-029f-450c-aafe-fd3cbd95b734')/drive/root/children/$entity","@odata.etag":"\"{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},1\"","eTag":"\"{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},1\"","lastModifiedDateTime":"2025-10-30T03:22:43Z","createdDateTime":"2025-10-30T03:22:43Z","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","name":"RPA","size":0,"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA","cTag":"\"c:{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},0\"","commentSettings":{"commentingDisabled":{"isDisabled":false}},"createdBy":{"application":{"displayName":"Microsoft Graph","id":"a90be2fa-0c89-4197-8f6d-8908635d1792"},"user":{"displayName":"Oscar Castaño","email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734"}},"lastModifiedBy":{"application":{"displayName":"Microsoft Graph","id":"a90be2fa-0c89-4197-8f6d-8908635d1792"},"user":{"displayName":"Oscar Castaño","email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734"}},"parentReference":{"driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","driveType":"business","id":"01J4OVHX56Y2GOVW7725BZO354PWSELRRZ","path":"/drives/b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI/root:","sharepointIds":{"listId":"dd2b1b01-253b-4250-b669-be9ad60c2b88","listItemUniqueId":"a6c50688-af6f-4480-877d-539b65f44aa5","siteId":"040fb455-6210-4d9b-894b-b33476a4c272","siteUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com","tenantId":"6369559d-c82e-47c4-8996-43d872c8121f","webId":"6a16c675-93fd-42f8-b2d2-9c46da852368"}},"fileSystemInfo":{"createdDateTime":"2025-10-30T03:22:43Z","lastModifiedDateTime":"2025-10-30T03:22:43Z"},"folder":{"childCount":0}}
+2025-10-29 22:22:43;DEBUG;UploadOnedrive.pix;2 Contador 
+2025-10-29 22:22:43;DEBUG;UploadOnedrive.pix;Reportes item en proceso 
+2025-10-29 22:22:43;DEBUG;UploadOnedrive.pix;RPA/Reportes Path concatenado 
+2025-10-29 22:22:43;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes 
+2025-10-29 22:22:44;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"error":{"code":"itemNotFound","message":"The resource could not be found."}}
+2025-10-29 22:22:44;DEBUG;UploadOnedrive.pix;Body request {
+  "name": "Reportes",
+  "folder": {},
+  "@microsoft.graph.conflictBehavior": "fail"
+}\n2025-10-29 22:22:44;DEBUG;UploadOnedrive.pix;Se crea carpeta RPA con resultado {"error":{"code":"itemNotFound","message":"Item not found","innerError":{"date":"2025-10-30T03:22:44","request-id":"3c8cd77a-9952-406f-ab4c-df977e88d16c","client-request-id":"3c8cd77a-9952-406f-ab4c-df977e88d16c"}}}
+2025-10-29 22:22:44;DEBUG;UploadOnedrive.pix;3 Contador 
+2025-10-29 22:22:44;DEBUG;UploadOnedrive.pix;Reporte_2025-10-29.xlsx item en proceso 
+2025-10-29 22:22:44;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx Path concatenado 
+2025-10-29 22:22:44;INFO;UploadOnedrive.pix;Extension del archivo .xlsx 
+2025-10-29 22:22:44;INFO;UploadOnedrive.pix;Nombre de archivo a subir Reporte_2025-10-29.xlsx 
+2025-10-29 22:22:44;DEBUG;UploadOnedrive.pix;Endpoint para subir archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes/Reporte_2025-10-29.xlsx:/content 
+2025-10-29 22:27:14;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-29 22:27:16;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-29 22:27:17;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-29 22:27:17;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-29.xlsx 
+2025-10-29 22:27:17;DEBUG;ExcelReport.pix; Total 20 
+2025-10-29 22:27:17;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-29 22:27:17;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 22:27:17;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 22:27:17;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-29 22:27:21;DEBUG;Fecha de envio 10/29/2025 
+2025-10-29 22:27:26;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\RPA\Reportes\reportes_2025-10-29.xlsx
+2025-10-29 22:27:36;INFO;SendReport.pix;Reporte enviado con exito
+2025-10-29 22:27:37;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 22:27:37;DEBUG;UploadOnedrive.pix;3 Cantidad items en ruta 
+2025-10-29 22:27:37;DEBUG;UploadOnedrive.pix;1 Contador 
+2025-10-29 22:27:37;DEBUG;UploadOnedrive.pix;RPA item en proceso 
+2025-10-29 22:27:37;DEBUG;UploadOnedrive.pix;RPA Path concatenado 
+2025-10-29 22:27:37;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA 
+2025-10-29 22:27:38;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:22:43Z","eTag":"\"{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},2\"","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:22:43Z","name":"RPA","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX56Y2GOVW7725BZO354PWSELRRZ","name":"Documents","path":"/drive/root:","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA","cTag":"\"c:{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:22:43Z","lastModifiedDateTime":"2025-10-30T03:22:43Z"},"folder":{"childCount":0},"size":0}
+2025-10-29 22:27:38;DEBUG;UploadOnedrive.pix;2 Contador 
+2025-10-29 22:27:38;DEBUG;UploadOnedrive.pix;Reportes item en proceso 
+2025-10-29 22:27:38;DEBUG;UploadOnedrive.pix;RPA/Reportes Path concatenado 
+2025-10-29 22:27:38;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes 
+2025-10-29 22:27:39;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"error":{"code":"itemNotFound","message":"The resource could not be found."}}
+2025-10-29 22:27:39;DEBUG;UploadOnedrive.pix;Peticion {
+  "name": "Reportes",
+  "folder": {},
+  "@microsoft.graph.conflictBehavior": "fail"
+}\n2025-10-29 22:27:39;DEBUG;UploadOnedrive.pix;Endpoint para crear carpeta https://graph.microsoft.com/v1.0/me/drive/root/RPA/children2025-10-29 22:27:39;DEBUG;UploadOnedrive.pix;Se crea carpeta RPA con resultado {"error":{"code":"itemNotFound","message":"Item not found","innerError":{"date":"2025-10-30T03:27:39","request-id":"95212ebc-bfeb-4809-b63b-fa80eea20a46","client-request-id":"95212ebc-bfeb-4809-b63b-fa80eea20a46"}}}
+2025-10-29 22:27:39;DEBUG;UploadOnedrive.pix;3 Contador 
+2025-10-29 22:27:39;DEBUG;UploadOnedrive.pix;Reporte_2025-10-29.xlsx item en proceso 
+2025-10-29 22:27:39;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx Path concatenado 
+2025-10-29 22:27:39;INFO;UploadOnedrive.pix;Extension del archivo .xlsx 
+2025-10-29 22:27:39;INFO;UploadOnedrive.pix;Nombre de archivo a subir Reporte_2025-10-29.xlsx 
+2025-10-29 22:27:39;DEBUG;UploadOnedrive.pix;Endpoint para subir archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes/Reporte_2025-10-29.xlsx:/content 
+2025-10-29 22:29:06;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-29 22:29:08;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-29 22:29:08;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-29 22:29:08;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-29.xlsx 
+2025-10-29 22:29:08;DEBUG;ExcelReport.pix; Total 20 
+2025-10-29 22:29:08;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-29 22:29:08;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 22:29:08;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 22:29:08;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-29 22:29:12;DEBUG;Fecha de envio 10/29/2025 
+2025-10-29 22:29:17;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\RPA\Reportes\reportes_2025-10-29.xlsx
+2025-10-29 22:29:28;INFO;SendReport.pix;Reporte enviado con exito
+2025-10-29 22:29:29;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 22:29:29;DEBUG;UploadOnedrive.pix;3 Cantidad items en ruta 
+2025-10-29 22:29:29;DEBUG;UploadOnedrive.pix;1 Contador 
+2025-10-29 22:29:29;DEBUG;UploadOnedrive.pix;RPA item en proceso 
+2025-10-29 22:29:29;DEBUG;UploadOnedrive.pix;RPA Path concatenado 
+2025-10-29 22:29:29;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA 
+2025-10-29 22:29:29;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:22:43Z","eTag":"\"{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},2\"","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:22:43Z","name":"RPA","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX56Y2GOVW7725BZO354PWSELRRZ","name":"Documents","path":"/drive/root:","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA","cTag":"\"c:{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:22:43Z","lastModifiedDateTime":"2025-10-30T03:22:43Z"},"folder":{"childCount":0},"size":0}
+2025-10-29 22:29:29;DEBUG;UploadOnedrive.pix;2 Contador 
+2025-10-29 22:29:29;DEBUG;UploadOnedrive.pix;Reportes item en proceso 
+2025-10-29 22:29:29;DEBUG;UploadOnedrive.pix;RPA/Reportes Path concatenado 
+2025-10-29 22:29:29;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes 
+2025-10-29 22:29:30;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"error":{"code":"itemNotFound","message":"The resource could not be found."}}
+2025-10-29 22:29:30;DEBUG;UploadOnedrive.pix;Peticion {
+  "name": "Reportes",
+  "folder": {},
+  "@microsoft.graph.conflictBehavior": "fail"
+}\n2025-10-29 22:29:30;DEBUG;UploadOnedrive.pix;Endpoint para crear carpeta https://graph.microsoft.com/v1.0/me/drive/root/RPA/children 
+2025-10-29 22:29:31;DEBUG;UploadOnedrive.pix;Se crea carpeta RPA con resultado {"error":{"code":"itemNotFound","message":"Item not found","innerError":{"date":"2025-10-30T03:29:30","request-id":"cd9bdffa-6040-4502-9444-2f259a1bda2f","client-request-id":"cd9bdffa-6040-4502-9444-2f259a1bda2f"}}}
+2025-10-29 22:29:31;DEBUG;UploadOnedrive.pix;3 Contador 
+2025-10-29 22:29:31;DEBUG;UploadOnedrive.pix;Reporte_2025-10-29.xlsx item en proceso 
+2025-10-29 22:29:31;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx Path concatenado 
+2025-10-29 22:29:31;INFO;UploadOnedrive.pix;Extension del archivo .xlsx 
+2025-10-29 22:29:31;INFO;UploadOnedrive.pix;Nombre de archivo a subir Reporte_2025-10-29.xlsx 
+2025-10-29 22:29:31;DEBUG;UploadOnedrive.pix;Endpoint para subir archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes/Reporte_2025-10-29.xlsx:/content 
+2025-10-29 22:31:01;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-29 22:31:03;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-29 22:31:04;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-29 22:31:04;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-29.xlsx 
+2025-10-29 22:31:04;DEBUG;ExcelReport.pix; Total 20 
+2025-10-29 22:31:04;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-29 22:31:04;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 22:31:04;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 22:31:04;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-29 22:31:08;DEBUG;Fecha de envio 10/29/2025 
+2025-10-29 22:31:13;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\RPA\Reportes\reportes_2025-10-29.xlsx
+2025-10-29 22:31:23;INFO;SendReport.pix;Reporte enviado con exito
+2025-10-29 22:31:24;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 22:31:24;DEBUG;UploadOnedrive.pix;3 Cantidad items en ruta 
+2025-10-29 22:31:24;DEBUG;UploadOnedrive.pix;1 Contador 
+2025-10-29 22:31:24;DEBUG;UploadOnedrive.pix;RPA item en proceso 
+2025-10-29 22:31:24;DEBUG;UploadOnedrive.pix;RPA Path concatenado 
+2025-10-29 22:31:24;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA 
+2025-10-29 22:31:25;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:22:43Z","eTag":"\"{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},2\"","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:22:43Z","name":"RPA","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX56Y2GOVW7725BZO354PWSELRRZ","name":"Documents","path":"/drive/root:","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA","cTag":"\"c:{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:22:43Z","lastModifiedDateTime":"2025-10-30T03:22:43Z"},"folder":{"childCount":0},"size":0}
+2025-10-29 22:31:25;DEBUG;UploadOnedrive.pix;2 Contador 
+2025-10-29 22:31:25;DEBUG;UploadOnedrive.pix;Reportes item en proceso 
+2025-10-29 22:31:25;DEBUG;UploadOnedrive.pix;RPA/Reportes Path concatenado 
+2025-10-29 22:31:25;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes 
+2025-10-29 22:31:26;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"error":{"code":"itemNotFound","message":"The resource could not be found."}}
+2025-10-29 22:31:26;DEBUG;UploadOnedrive.pix;Peticion {
+  "name": "Reportes",
+  "folder": {},
+  "@microsoft.graph.conflictBehavior": "fail"
+}\n2025-10-29 22:31:26;DEBUG;UploadOnedrive.pix;Endpoint para crear carpeta https://graph.microsoft.com/v1.0/me/drive/root/RPA/children 
+2025-10-29 22:31:26;DEBUG;UploadOnedrive.pix;Se crea carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#users('1d0615e9-029f-450c-aafe-fd3cbd95b734')/drive/root/children/$entity","@odata.etag":"\"{C728FF1F-C44D-4164-9337-39BD152D28ED},1\"","eTag":"\"{C728FF1F-C44D-4164-9337-39BD152D28ED},1\"","lastModifiedDateTime":"2025-10-30T03:31:26Z","createdDateTime":"2025-10-30T03:31:26Z","id":"01J4OVHXY774UMOTOEMRAZGNZZXUKS2KHN","name":"Reportes","size":0,"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA/Reportes","cTag":"\"c:{C728FF1F-C44D-4164-9337-39BD152D28ED},0\"","commentSettings":{"commentingDisabled":{"isDisabled":false}},"createdBy":{"application":{"displayName":"Microsoft Graph","id":"a90be2fa-0c89-4197-8f6d-8908635d1792"},"user":{"displayName":"Oscar Castaño","email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734"}},"lastModifiedBy":{"application":{"displayName":"Microsoft Graph","id":"a90be2fa-0c89-4197-8f6d-8908635d1792"},"user":{"displayName":"Oscar Castaño","email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734"}},"parentReference":{"driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","driveType":"business","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","path":"/drives/b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI/root:/RPA","sharepointIds":{"listId":"dd2b1b01-253b-4250-b669-be9ad60c2b88","listItemUniqueId":"6fde0c67-79de-4dec-ac34-d1cf6b691d61","siteId":"040fb455-6210-4d9b-894b-b33476a4c272","siteUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com","tenantId":"6369559d-c82e-47c4-8996-43d872c8121f","webId":"6a16c675-93fd-42f8-b2d2-9c46da852368"}},"fileSystemInfo":{"createdDateTime":"2025-10-30T03:31:26Z","lastModifiedDateTime":"2025-10-30T03:31:26Z"},"folder":{"childCount":0}}
+2025-10-29 22:31:26;DEBUG;UploadOnedrive.pix;3 Contador 
+2025-10-29 22:31:26;DEBUG;UploadOnedrive.pix;Reporte_2025-10-29.xlsx item en proceso 
+2025-10-29 22:31:26;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx Path concatenado 
+2025-10-29 22:31:26;INFO;UploadOnedrive.pix;Extension del archivo .xlsx 
+2025-10-29 22:31:26;INFO;UploadOnedrive.pix;Nombre de archivo a subir Reporte_2025-10-29.xlsx 
+2025-10-29 22:31:26;DEBUG;UploadOnedrive.pix;Endpoint para subir archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes/Reporte_2025-10-29.xlsx:/content 
+2025-10-29 23:09:02;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-29 23:09:06;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-29 23:09:06;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-29 23:09:06;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-29.xlsx 
+2025-10-29 23:09:06;DEBUG;ExcelReport.pix; Total 20 
+2025-10-29 23:09:06;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-29 23:09:06;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 23:09:06;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 23:09:06;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-29 23:09:10;DEBUG;Fecha de envio 10/29/2025 
+2025-10-29 23:09:15;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\RPA\Reportes\reportes_2025-10-29.xlsx
+2025-10-29 23:09:26;INFO;SendReport.pix;Reporte enviado con exito
+2025-10-29 23:09:27;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx ruta en proceso 
+2025-10-29 23:09:27;DEBUG;UploadOnedrive.pix;3 Cantidad items en ruta 
+2025-10-29 23:09:27;DEBUG;UploadOnedrive.pix;1 Contador 
+2025-10-29 23:09:27;DEBUG;UploadOnedrive.pix;RPA item en proceso 
+2025-10-29 23:09:27;DEBUG;UploadOnedrive.pix;RPA Path concatenado 
+2025-10-29 23:09:27;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA 
+2025-10-29 23:09:28;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:22:43Z","eTag":"\"{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},2\"","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:22:43Z","name":"RPA","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX56Y2GOVW7725BZO354PWSELRRZ","name":"Documents","path":"/drive/root:","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA","cTag":"\"c:{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:22:43Z","lastModifiedDateTime":"2025-10-30T03:22:43Z"},"folder":{"childCount":1},"size":0}
+2025-10-29 23:09:28;DEBUG;UploadOnedrive.pix;2 Contador 
+2025-10-29 23:09:28;DEBUG;UploadOnedrive.pix;Reportes item en proceso 
+2025-10-29 23:09:28;DEBUG;UploadOnedrive.pix;RPA/Reportes Path concatenado 
+2025-10-29 23:09:28;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes 
+2025-10-29 23:09:28;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:31:26Z","eTag":"\"{C728FF1F-C44D-4164-9337-39BD152D28ED},2\"","id":"01J4OVHXY774UMOTOEMRAZGNZZXUKS2KHN","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:31:26Z","name":"Reportes","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","name":"RPA","path":"/drive/root:/RPA","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA/Reportes","cTag":"\"c:{C728FF1F-C44D-4164-9337-39BD152D28ED},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:31:26Z","lastModifiedDateTime":"2025-10-30T03:31:26Z"},"folder":{"childCount":0},"size":0}
+2025-10-29 23:09:28;DEBUG;UploadOnedrive.pix;3 Contador 
+2025-10-29 23:09:28;DEBUG;UploadOnedrive.pix;Reporte_2025-10-29.xlsx item en proceso 
+2025-10-29 23:09:28;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-29.xlsx Path concatenado 
+2025-10-29 23:09:28;INFO;UploadOnedrive.pix;Extension del archivo .xlsx 
+2025-10-29 23:09:28;INFO;UploadOnedrive.pix;Nombre de archivo a subir Reporte_2025-10-29.xlsx 
+2025-10-29 23:09:28;DEBUG;UploadOnedrive.pix;Endpoint para subir archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes/Reporte_2025-10-29.xlsx:/content 
+2025-10-29 23:09:28;DEBUG;UploadOnedrive.pix; Subir archivo ruta completa RPA/Reportes/Reporte_2025-10-29.xlsx2025-10-29 23:45:26;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-29 23:52:26;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-29 23:53:01;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-29 23:53:29;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-29 23:54:35;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-29 23:54:35;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-29 23:54:35;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-29.xlsx 
+2025-10-29 23:54:35;DEBUG;ExcelReport.pix; Total 20 
+2025-10-29 23:54:35;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-29 23:54:35;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 23:54:35;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 23:54:35;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-29 23:54:40;DEBUG;Fecha de envio 10/29/2025 
+2025-10-29 23:54:45;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica\Output\reportes_2025-10-29.xlsx
+2025-10-29 23:54:55;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-29 23:54:56;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-29 23:54:56;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-29.xlsx 
+2025-10-29 23:54:56;DEBUG;ExcelReport.pix; Total 20 
+2025-10-29 23:54:56;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-29 23:54:56;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 23:54:56;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 23:54:56;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-29 23:55:00;DEBUG;Fecha de envio 10/29/2025 
+2025-10-29 23:55:05;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica\Output\reportes_2025-10-29.xlsx
+2025-10-29 23:56:39;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-29 23:56:39;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-29 23:56:39;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-29.xlsx 
+2025-10-29 23:56:39;DEBUG;ExcelReport.pix; Total 20 
+2025-10-29 23:56:39;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-29 23:56:39;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 23:56:39;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-29 23:56:39;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-29 23:56:42;DEBUG;Fecha de envio 10/29/2025 
+2025-10-29 23:56:47;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\Output\reportes_2025-10-29.xlsx

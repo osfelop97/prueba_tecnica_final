@@ -1,0 +1,927 @@
+﻿2025-10-30 00:00:01;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 00:00:04;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 00:00:04;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 00:00:04;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 00:00:04;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 00:00:04;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 00:00:04;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 00:00:04;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 00:00:04;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 00:00:08;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 00:00:13;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\reportes_2025-10-30.xlsx
+2025-10-30 00:01:50;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 00:01:53;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 00:01:53;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 00:01:53;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 00:01:53;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 00:01:53;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 00:01:53;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 00:01:53;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 00:01:53;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 00:01:57;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 00:02:02;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\reportes_2025-10-30.xlsx
+2025-10-30 00:02:13;INFO;SendReport.pix;Reporte enviado con exito
+2025-10-30 00:03:21;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 00:03:32;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 00:03:32;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 00:03:32;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 00:03:32;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 00:03:32;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 00:03:32;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 00:03:32;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 00:03:32;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 00:03:36;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 00:03:41;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\reportes_2025-10-30.xlsx
+2025-10-30 00:03:52;INFO;SendReport.pix;Reporte enviado con exito
+2025-10-30 00:03:52;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-30.xlsx ruta en proceso 
+2025-10-30 00:03:52;DEBUG;UploadOnedrive.pix;3 Cantidad items en ruta 
+2025-10-30 00:03:52;DEBUG;UploadOnedrive.pix;1 Contador 
+2025-10-30 00:03:52;DEBUG;UploadOnedrive.pix;RPA item en proceso 
+2025-10-30 00:03:52;DEBUG;UploadOnedrive.pix;RPA Path concatenado 
+2025-10-30 00:03:52;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA 
+2025-10-30 00:03:53;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:22:43Z","eTag":"\"{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},2\"","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:22:43Z","name":"RPA","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX56Y2GOVW7725BZO354PWSELRRZ","name":"Documents","path":"/drive/root:","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA","cTag":"\"c:{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:22:43Z","lastModifiedDateTime":"2025-10-30T03:22:43Z"},"folder":{"childCount":1},"size":12784}
+2025-10-30 00:03:53;DEBUG;UploadOnedrive.pix;2 Contador 
+2025-10-30 00:03:53;DEBUG;UploadOnedrive.pix;Reportes item en proceso 
+2025-10-30 00:03:53;DEBUG;UploadOnedrive.pix;RPA/Reportes Path concatenado 
+2025-10-30 00:03:53;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes 
+2025-10-30 00:03:54;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:31:26Z","eTag":"\"{C728FF1F-C44D-4164-9337-39BD152D28ED},2\"","id":"01J4OVHXY774UMOTOEMRAZGNZZXUKS2KHN","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:31:26Z","name":"Reportes","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","name":"RPA","path":"/drive/root:/RPA","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA/Reportes","cTag":"\"c:{C728FF1F-C44D-4164-9337-39BD152D28ED},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:31:26Z","lastModifiedDateTime":"2025-10-30T03:31:26Z"},"folder":{"childCount":1},"size":12784}
+2025-10-30 00:03:54;DEBUG;UploadOnedrive.pix;3 Contador 
+2025-10-30 00:03:54;DEBUG;UploadOnedrive.pix;Reporte_2025-10-30.xlsx item en proceso 
+2025-10-30 00:03:54;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-30.xlsx Path concatenado 
+2025-10-30 00:03:54;INFO;UploadOnedrive.pix;Extension del archivo .xlsx 
+2025-10-30 00:03:54;INFO;UploadOnedrive.pix;Nombre de archivo a subir Reporte_2025-10-30.xlsx 
+2025-10-30 00:03:54;DEBUG;UploadOnedrive.pix;Endpoint para subir archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes/Reporte_2025-10-30.xlsx:/content 
+2025-10-30 00:03:54;DEBUG;UploadOnedrive.pix; Subir archivo ruta completa RPA/Reportes/Reporte_2025-10-30.xlsx2025-10-30 10:32:20;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 10:35:40;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 10:35:40;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 10:35:40;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 10:35:40;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 10:35:40;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 10:35:40;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 10:35:40;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 10:35:40;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 10:35:46;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 10:35:51;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\reportes_2025-10-30.xlsx
+2025-10-30 10:36:01;INFO;SendReport.pix;Reporte enviado con exito
+2025-10-30 10:36:02;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-30.xlsx ruta en proceso 
+2025-10-30 10:36:02;DEBUG;UploadOnedrive.pix;3 Cantidad items en ruta 
+2025-10-30 10:36:02;DEBUG;UploadOnedrive.pix;1 Contador 
+2025-10-30 10:36:02;DEBUG;UploadOnedrive.pix;RPA item en proceso 
+2025-10-30 10:36:02;DEBUG;UploadOnedrive.pix;RPA Path concatenado 
+2025-10-30 10:36:02;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA 
+2025-10-30 10:36:03;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:22:43Z","eTag":"\"{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},2\"","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:22:43Z","name":"RPA","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX56Y2GOVW7725BZO354PWSELRRZ","name":"Documents","path":"/drive/root:","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA","cTag":"\"c:{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:22:43Z","lastModifiedDateTime":"2025-10-30T03:22:43Z"},"folder":{"childCount":1},"size":6414}
+2025-10-30 10:36:03;DEBUG;UploadOnedrive.pix;2 Contador 
+2025-10-30 10:36:03;DEBUG;UploadOnedrive.pix;Reportes item en proceso 
+2025-10-30 10:36:03;DEBUG;UploadOnedrive.pix;RPA/Reportes Path concatenado 
+2025-10-30 10:36:03;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes 
+2025-10-30 10:36:04;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:31:26Z","eTag":"\"{C728FF1F-C44D-4164-9337-39BD152D28ED},2\"","id":"01J4OVHXY774UMOTOEMRAZGNZZXUKS2KHN","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:31:26Z","name":"Reportes","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","name":"RPA","path":"/drive/root:/RPA","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA/Reportes","cTag":"\"c:{C728FF1F-C44D-4164-9337-39BD152D28ED},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:31:26Z","lastModifiedDateTime":"2025-10-30T03:31:26Z"},"folder":{"childCount":1},"size":6414}
+2025-10-30 10:36:04;DEBUG;UploadOnedrive.pix;3 Contador 
+2025-10-30 10:36:04;DEBUG;UploadOnedrive.pix;Reporte_2025-10-30.xlsx item en proceso 
+2025-10-30 10:36:04;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-30.xlsx Path concatenado 
+2025-10-30 10:36:04;INFO;UploadOnedrive.pix;Extension del archivo .xlsx 
+2025-10-30 10:36:04;INFO;UploadOnedrive.pix;Nombre de archivo a subir Reporte_2025-10-30.xlsx 
+2025-10-30 10:36:04;DEBUG;UploadOnedrive.pix;Endpoint para subir archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes/Reporte_2025-10-30.xlsx:/content 
+2025-10-30 10:36:04;DEBUG;UploadOnedrive.pix; Subir archivo ruta completa RPA/Reportes/Reporte_2025-10-30.xlsx2025-10-30 10:36:04;INFO;upload_onedrive.pix;Actividad iniciada con exito
+2025-10-30 10:36:08;DEBUG;upload_onedrive.pix;Subida de archivos de manera exitosa @{@odata.context=https://graph.microsoft.com/v1.0/$metadata#users('1d0615e9-029f-450c-aafe-fd3cbd95b734')/drive/root/$entity; @microsoft.graph.downloadUrl=https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=7a4130f8-db18-40bc-bb74-0ee100f5e341&Translate=false&tempauth=v1.eyJzaXRlaWQiOiIwNDBmYjQ1NS02MjEwLTRkOWItODk0Yi1iMzM0NzZhNGMyNzIiLCJhcHBfZGlzcGxheW5hbWUiOiJQaXhSUEFfTVNHcmFwaCIsImFwcGlkIjoiYTkwYmUyZmEtMGM4OS00MTk3LThmNmQtODkwODYzNWQxNzkyIiwiYXVkIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwL3BpeHBydWViYXMtbXkuc2hhcmVwb2ludC5jb21ANjM2OTU1OWQtYzgyZS00N2M0LTg5OTYtNDNkODcyYzgxMjFmIiwiZXhwIjoiMTc2MTg0MjE3MCJ9.CkAKDGVudHJhX2NsYWltcxIwQ0x5SmpzZ0dFQUFhRm5SNWFrZHBUbHBVY1d0RGFXSldaa2x1YlhSbVFVRXFBQT09CjIKCmFjdG9yYXBwaWQSJDAwMDAwMDAzLTAwMDAtMDAwMC1jMDAwLTAwMDAwMDAwMDAwMAoKCgRzbmlkEgI2NBILCJb0tNOC9cs-EAUaDDQwLjEyNi4yNC4yNCosLzlMQUlsT09WWkdhbTZidDlialJPM0g0NFJqRG9JeU5KOGhoUk4yOGNqYz0wrQE4AUIQodR-_wIAABAKI54ch7yaVEoQaGFzaGVkcHJvb2Z0b2tlbmokMDA5ZDMyNDktN2RjNi1lMWZlLTM0MzgtNTg0ZDY0OTU3MWRlcikwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDUwYWMxNmM5ZkBsaXZlLmNvbXoBMoIBEgmdVWljLsjERxGJlkPYcsgSH5IBBU9zY2FymgEIQ2FzdGHDsW-iASdvc2NhcmNhc3Rhbm9AcGl4cHJ1ZWJhcy5vbm1pY3Jvc29mdC5jb22qARAxMDAzMjAwNTBBQzE2QzlGsgFzbXlmaWxlcy5yZWFkIGFsbGZpbGVzLnJlYWQgbXlmaWxlcy53cml0ZSBhbGxmaWxlcy53cml0ZSBteWFwcGZvbGRlci53cml0ZSBmaWxlcy5zZWxlY3RlZG9wZXJhdGlvbnMgYWxscHJvZmlsZXMucmVhZMgBAQ.-r6ENmzoFYW2ZBgE6bqCviw1HXt60-zuNTRDYrk0SHc&ApiVersion=2.0; createdDateTime=10/30/2025 3:36:10 PM; eTag="{7A4130F8-DB18-40BC-BB74-0EE100F5E341},1"; id=01J4OVHX7YGBAXUGG3XRALW5AO4EAPLY2B; lastModifiedDateTime=10/30/2025 3:36:10 PM; name=Reporte_2025-10-30.xlsx; webUrl=https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B7A4130F8-DB18-40BC-BB74-0EE100F5E341%7D&file=Reporte_2025-10-30.xlsx&action=default&mobileredirect=true; cTag="c:{7A4130F8-DB18-40BC-BB74-0EE100F5E341},1"; size=13210; createdBy=; lastModifiedBy=; parentReference=; file=; fileSystemInfo=}
+2025-10-30 10:36:08;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes/Reporte_2025-10-30.xlsx 
+2025-10-30 10:36:09;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","@microsoft.graph.downloadUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=7a4130f8-db18-40bc-bb74-0ee100f5e341&Translate=false&tempauth=v1.eyJzaXRlaWQiOiIwNDBmYjQ1NS02MjEwLTRkOWItODk0Yi1iMzM0NzZhNGMyNzIiLCJhcHBfZGlzcGxheW5hbWUiOiJQaXhSUEFfTVNHcmFwaCIsImFwcGlkIjoiYTkwYmUyZmEtMGM4OS00MTk3LThmNmQtODkwODYzNWQxNzkyIiwiYXVkIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwL3BpeHBydWViYXMtbXkuc2hhcmVwb2ludC5jb21ANjM2OTU1OWQtYzgyZS00N2M0LTg5OTYtNDNkODcyYzgxMjFmIiwiZXhwIjoiMTc2MTg0MjE3MCJ9.CkAKDGVudHJhX2NsYWltcxIwQ0xpSmpzZ0dFQUFhRmtoUU5IZFJXVUZXWlRCbFVXeEVVbEZWY0RVMFFVRXFBQT09CjIKCmFjdG9yYXBwaWQSJDAwMDAwMDAzLTAwMDAtMDAwMC1jMDAwLTAwMDAwMDAwMDAwMAoKCgRzbmlkEgI2NBILCPrTltiC9cs-EAUaDDQwLjEyNi4yNC4yNCosLzlMQUlsT09WWkdhbTZidDlialJPM0g0NFJqRG9JeU5KOGhoUk4yOGNqYz0wrQE4AUIQodR-_z9wABATQ4M740sh8UoQaGFzaGVkcHJvb2Z0b2tlbmokMDA5ZDMyNDktNGQ2Zi0wZDgyLWYxZTEtYjc3YTlhY2U1ZDQwcikwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDUwYWMxNmM5ZkBsaXZlLmNvbXoBMoIBEgmdVWljLsjERxGJlkPYcsgSH5IBBU9zY2FymgEIQ2FzdGHDsW-iASdvc2NhcmNhc3Rhbm9AcGl4cHJ1ZWJhcy5vbm1pY3Jvc29mdC5jb22qARAxMDAzMjAwNTBBQzE2QzlGsgFzbXlmaWxlcy5yZWFkIGFsbGZpbGVzLnJlYWQgbXlmaWxlcy53cml0ZSBhbGxmaWxlcy53cml0ZSBteWFwcGZvbGRlci53cml0ZSBmaWxlcy5zZWxlY3RlZG9wZXJhdGlvbnMgYWxscHJvZmlsZXMucmVhZMgBAQ.AEk2uvvOgXFpmZ1x1WtyD8lzGC-XL9iC3Xf_vUGp7VM&ApiVersion=2.0","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T15:36:10Z","eTag":"\"{7A4130F8-DB18-40BC-BB74-0EE100F5E341},1\"","id":"01J4OVHX7YGBAXUGG3XRALW5AO4EAPLY2B","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T15:36:10Z","name":"Reporte_2025-10-30.xlsx","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHXY774UMOTOEMRAZGNZZXUKS2KHN","name":"Reportes","path":"/drive/root:/RPA/Reportes","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B7A4130F8-DB18-40BC-BB74-0EE100F5E341%7D&file=Reporte_2025-10-30.xlsx&action=default&mobileredirect=true","cTag":"\"c:{7A4130F8-DB18-40BC-BB74-0EE100F5E341},1\"","file":{"hashes":{"quickXorHash":"lWF8nLA/29RBh/RdPZDkKXQYuDQ="},"mimeType":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},"fileSystemInfo":{"createdDateTime":"2025-10-30T15:36:10Z","lastModifiedDateTime":"2025-10-30T15:36:10Z"},"size":13210}
+2025-10-30 10:36:09;DEBUG;UploadOnedrive.pix;RPA/Logs/Productos_2025-10-30.json ruta en proceso 
+2025-10-30 10:36:09;DEBUG;UploadOnedrive.pix;3 Cantidad items en ruta 
+2025-10-30 10:36:09;DEBUG;UploadOnedrive.pix;1 Contador 
+2025-10-30 10:36:09;DEBUG;UploadOnedrive.pix;RPA item en proceso 
+2025-10-30 10:36:09;DEBUG;UploadOnedrive.pix;RPA Path concatenado 
+2025-10-30 10:36:09;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA 
+2025-10-30 10:36:09;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:22:43Z","eTag":"\"{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},2\"","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:22:43Z","name":"RPA","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX56Y2GOVW7725BZO354PWSELRRZ","name":"Documents","path":"/drive/root:","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA","cTag":"\"c:{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:22:43Z","lastModifiedDateTime":"2025-10-30T03:22:43Z"},"folder":{"childCount":1},"size":6414}
+2025-10-30 10:36:09;DEBUG;UploadOnedrive.pix;2 Contador 
+2025-10-30 10:36:09;DEBUG;UploadOnedrive.pix;Logs item en proceso 
+2025-10-30 10:36:09;DEBUG;UploadOnedrive.pix;RPA/Logs Path concatenado 
+2025-10-30 10:36:09;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Logs 
+2025-10-30 10:36:10;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"error":{"code":"itemNotFound","message":"The resource could not be found."}}
+2025-10-30 10:36:10;DEBUG;UploadOnedrive.pix;Peticion {
+  "name": "Logs",
+  "folder": {},
+  "@microsoft.graph.conflictBehavior": "fail"
+}\n2025-10-30 10:36:10;DEBUG;UploadOnedrive.pix;Endpoint para crear carpeta https://graph.microsoft.com/v1.0/me/drive/root:/RPA:/children 
+2025-10-30 10:36:10;DEBUG;UploadOnedrive.pix;Se crea carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#users('1d0615e9-029f-450c-aafe-fd3cbd95b734')/drive/root/children/$entity","@odata.etag":"\"{706622AE-E044-465D-ACDF-A83C2ABD4036},1\"","eTag":"\"{706622AE-E044-465D-ACDF-A83C2ABD4036},1\"","lastModifiedDateTime":"2025-10-30T15:36:12Z","createdDateTime":"2025-10-30T15:36:12Z","id":"01J4OVHX5OEJTHARHALVDKZX5IHQVL2QBW","name":"Logs","size":0,"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA/Logs","cTag":"\"c:{706622AE-E044-465D-ACDF-A83C2ABD4036},0\"","commentSettings":{"commentingDisabled":{"isDisabled":false}},"createdBy":{"application":{"displayName":"Microsoft Graph","id":"a90be2fa-0c89-4197-8f6d-8908635d1792"},"user":{"displayName":"Oscar Castaño","email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734"}},"lastModifiedBy":{"application":{"displayName":"Microsoft Graph","id":"a90be2fa-0c89-4197-8f6d-8908635d1792"},"user":{"displayName":"Oscar Castaño","email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734"}},"parentReference":{"driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","driveType":"business","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","path":"/drives/b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI/root:/RPA","sharepointIds":{"listId":"dd2b1b01-253b-4250-b669-be9ad60c2b88","listItemUniqueId":"6fde0c67-79de-4dec-ac34-d1cf6b691d61","siteId":"040fb455-6210-4d9b-894b-b33476a4c272","siteUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com","tenantId":"6369559d-c82e-47c4-8996-43d872c8121f","webId":"6a16c675-93fd-42f8-b2d2-9c46da852368"}},"fileSystemInfo":{"createdDateTime":"2025-10-30T15:36:12Z","lastModifiedDateTime":"2025-10-30T15:36:12Z"},"folder":{"childCount":0}}
+2025-10-30 10:36:10;DEBUG;UploadOnedrive.pix;3 Contador 
+2025-10-30 10:36:10;DEBUG;UploadOnedrive.pix;Productos_2025-10-30.json item en proceso 
+2025-10-30 10:36:10;DEBUG;UploadOnedrive.pix;RPA/Logs/Productos_2025-10-30.json Path concatenado 
+2025-10-30 10:36:10;INFO;UploadOnedrive.pix;Extension del archivo .json 
+2025-10-30 10:36:10;INFO;UploadOnedrive.pix;Nombre de archivo a subir Productos_2025-10-30.json 
+2025-10-30 10:36:10;DEBUG;UploadOnedrive.pix;Endpoint para subir archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Logs/Productos_2025-10-30.json:/content 
+2025-10-30 10:36:10;DEBUG;UploadOnedrive.pix; Subir archivo ruta completa RPA/Logs/Productos_2025-10-30.json2025-10-30 10:36:10;INFO;upload_onedrive.pix;Actividad iniciada con exito
+2025-10-30 10:36:13;DEBUG;upload_onedrive.pix;Subida de archivos de manera exitosa @{@odata.context=https://graph.microsoft.com/v1.0/$metadata#users('1d0615e9-029f-450c-aafe-fd3cbd95b734')/drive/root/$entity; @microsoft.graph.downloadUrl=https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=a90d34bd-ee5e-43e2-bb5f-77531dea2707&Translate=false&tempauth=v1.eyJzaXRlaWQiOiIwNDBmYjQ1NS02MjEwLTRkOWItODk0Yi1iMzM0NzZhNGMyNzIiLCJhcHBfZGlzcGxheW5hbWUiOiJQaXhSUEFfTVNHcmFwaCIsImFwcGlkIjoiYTkwYmUyZmEtMGM4OS00MTk3LThmNmQtODkwODYzNWQxNzkyIiwiYXVkIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwL3BpeHBydWViYXMtbXkuc2hhcmVwb2ludC5jb21ANjM2OTU1OWQtYzgyZS00N2M0LTg5OTYtNDNkODcyYzgxMjFmIiwiZXhwIjoiMTc2MTg0MjE3NCJ9.CkAKDGVudHJhX2NsYWltcxIwQ01HSmpzZ0dFQUFhRm1kT1VXSnZWRTFQYkZWUGJFbFlRMlZ1ZG5KMlFWRXFBQT09CjIKCmFjdG9yYXBwaWQSJDAwMDAwMDAzLTAwMDAtMDAwMC1jMDAwLTAwMDAwMDAwMDAwMAoKCgRzbmlkEgI2NBILCPjM_P-C9cs-EAUaDDQwLjEyNi4yNC4yNCosZ3E2ZXZaUm5BbS8ybUk5ckxLbitTQVp3cGR0RVJOU3NWUHN5dVQzWk1tOD0wrQE4AUIQodR_ADHAABAKI5oICEXfDEoQaGFzaGVkcHJvb2Z0b2tlbmokMDA5ZDMyNDktNDI3MS00NjVkLTM4NGUtMjcwNzk1ODAyZDc3cikwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDUwYWMxNmM5ZkBsaXZlLmNvbXoBMoIBEgmdVWljLsjERxGJlkPYcsgSH5IBBU9zY2FymgEIQ2FzdGHDsW-iASdvc2NhcmNhc3Rhbm9AcGl4cHJ1ZWJhcy5vbm1pY3Jvc29mdC5jb22qARAxMDAzMjAwNTBBQzE2QzlGsgFzbXlmaWxlcy5yZWFkIGFsbGZpbGVzLnJlYWQgbXlmaWxlcy53cml0ZSBhbGxmaWxlcy53cml0ZSBteWFwcGZvbGRlci53cml0ZSBmaWxlcy5zZWxlY3RlZG9wZXJhdGlvbnMgYWxscHJvZmlsZXMucmVhZMgBAQ.xivEB9djtsTI4j2y0F1qepRET6Hk_-b6ynoUFhGgrOo&ApiVersion=2.0; createdDateTime=10/30/2025 3:36:15 PM; eTag="{A90D34BD-EE5E-43E2-BB5F-77531DEA2707},1"; id=01J4OVHX55GQG2SXXO4JB3WX3XKMO6UJYH; lastModifiedDateTime=10/30/2025 3:36:15 PM; name=Productos_2025-10-30.json; webUrl=https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA/Logs/Productos_2025-10-30.json; cTag="c:{A90D34BD-EE5E-43E2-BB5F-77531DEA2707},1"; size=10643; createdBy=; lastModifiedBy=; parentReference=; file=; fileSystemInfo=}
+2025-10-30 10:36:13;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Logs/Productos_2025-10-30.json 
+2025-10-30 10:36:14;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","@microsoft.graph.downloadUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=a90d34bd-ee5e-43e2-bb5f-77531dea2707&Translate=false&tempauth=v1.eyJzaXRlaWQiOiIwNDBmYjQ1NS02MjEwLTRkOWItODk0Yi1iMzM0NzZhNGMyNzIiLCJhcHBfZGlzcGxheW5hbWUiOiJQaXhSUEFfTVNHcmFwaCIsImFwcGlkIjoiYTkwYmUyZmEtMGM4OS00MTk3LThmNmQtODkwODYzNWQxNzkyIiwiYXVkIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwL3BpeHBydWViYXMtbXkuc2hhcmVwb2ludC5jb21ANjM2OTU1OWQtYzgyZS00N2M0LTg5OTYtNDNkODcyYzgxMjFmIiwiZXhwIjoiMTc2MTg0MjE3NiJ9.CkAKDGVudHJhX2NsYWltcxIwQ0xpSmpzZ0dFQUFhRmtoUU5IZFJXVUZXWlRCbFVXeEVVbEZWY0RVMFFVRXFBQT09CjIKCmFjdG9yYXBwaWQSJDAwMDAwMDAzLTAwMDAtMDAwMC1jMDAwLTAwMDAwMDAwMDAwMAoKCgRzbmlkEgI2NBILCLrKyoyD9cs-EAUaDDQwLjEyNi4yNC4yNCosZ3E2ZXZaUm5BbS8ybUk5ckxLbitTQVp3cGR0RVJOU3NWUHN5dVQzWk1tOD0wrQE4AUIQodR_AJfgABAKI5DgYEFt8EoQaGFzaGVkcHJvb2Z0b2tlbmokMDA5ZDMyNDktNGQ2Zi0wZDgyLWYxZTEtYjc3YTlhY2U1ZDQwcikwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDUwYWMxNmM5ZkBsaXZlLmNvbXoBMoIBEgmdVWljLsjERxGJlkPYcsgSH5IBBU9zY2FymgEIQ2FzdGHDsW-iASdvc2NhcmNhc3Rhbm9AcGl4cHJ1ZWJhcy5vbm1pY3Jvc29mdC5jb22qARAxMDAzMjAwNTBBQzE2QzlGsgFzbXlmaWxlcy5yZWFkIGFsbGZpbGVzLnJlYWQgbXlmaWxlcy53cml0ZSBhbGxmaWxlcy53cml0ZSBteWFwcGZvbGRlci53cml0ZSBmaWxlcy5zZWxlY3RlZG9wZXJhdGlvbnMgYWxscHJvZmlsZXMucmVhZMgBAQ.yMd5rUQpiRlXNISORkl-k0HP098pUAZf2oRkFm2Fedg&ApiVersion=2.0","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T15:36:15Z","eTag":"\"{A90D34BD-EE5E-43E2-BB5F-77531DEA2707},1\"","id":"01J4OVHX55GQG2SXXO4JB3WX3XKMO6UJYH","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T15:36:15Z","name":"Productos_2025-10-30.json","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX5OEJTHARHALVDKZX5IHQVL2QBW","name":"Logs","path":"/drive/root:/RPA/Logs","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA/Logs/Productos_2025-10-30.json","cTag":"\"c:{A90D34BD-EE5E-43E2-BB5F-77531DEA2707},1\"","file":{"hashes":{"quickXorHash":"bWVIQUzW/9OQPViTRIJGFBzf5mI="},"mimeType":"application/json"},"fileSystemInfo":{"createdDateTime":"2025-10-30T15:36:15Z","lastModifiedDateTime":"2025-10-30T15:36:15Z"},"size":10643}
+2025-10-30 11:03:45;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 11:03:48;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 11:03:48;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 11:03:48;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 11:03:48;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 11:03:48;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 11:03:48;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 11:03:48;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 11:03:48;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 11:04:55;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 11:04:59;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 11:04:59;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 11:04:59;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 11:04:59;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 11:04:59;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 11:04:59;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 11:04:59;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 11:04:59;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 11:05:03;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 11:05:36;ERROR;Main.pix;Error System.Exception: Element not found
+   at Activities.Web.ClickElement.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 11:21:45;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 11:21:48;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 11:21:48;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 11:21:48;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 11:21:48;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 11:21:48;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 11:21:48;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 11:21:48;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 11:21:48;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 11:22:03;ERROR;Main.pix;Error System.Exception: Element not found
+   at Activities.Web.SendKeysInElementBace.SendKeys(String text, Nullable`1 optionID, Boolean checkingValue)
+   at Activities.Web.SendKeysInElement.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 12:27:17;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 12:28:18;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 12:28:18;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 12:28:18;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 12:28:18;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 12:28:18;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 12:28:18;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 12:28:18;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 12:28:18;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 12:28:24;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 12:28:29;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\reportes_2025-10-30.xlsx
+2025-10-30 12:28:36;ERROR;Main.pix;Error System.InvalidOperationException: Element not found
+   at Activities.Desktop.ClickElement.ExecuteUIA3(Nullable`1 optionID)
+   at Activities.Desktop.ClickElement.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 12:29:14;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 12:29:17;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 12:29:18;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 12:29:18;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 12:29:18;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 12:29:18;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 12:29:18;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 12:29:18;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 12:29:18;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 12:29:22;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 12:29:26;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\reportes_2025-10-30.xlsx
+2025-10-30 12:29:36;ERROR;Main.pix;Error OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <div role="button" class="uArJ5e UQuaGc Y5sE8d VkkpIf QvWxOd" jscontroller="VXdfxd" jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue;touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc(preventDefault=true); touchcancel:JMtRjd;focus:AHmuwe; blur:O22p3e; contextmenu:mg9Pef;" jsshadow="" jsname="M2UYVd" aria-label="Submit" tabindex="0">...</div> is not clickable at point (237, 635). Other element would receive the click: <div class="fFW7wc XKSfm-Sx9Kwc-xJ5Hnf" aria-hidden="true" style="opacity: 0.5; width: 1025px; height: 1142px;"></div>
+  (Session info: chrome=141.0.7390.123)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at Web.Core.Browsers.Selenium.SeleniumElement.Click(Int32 timeout_ms, CancellationToken ct)
+   at Activities.Web.ClickElement.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 12:29:44;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 12:33:50;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 12:33:52;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 12:33:52;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 12:33:52;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 12:33:52;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 12:33:52;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 12:33:52;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 12:33:52;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 12:33:52;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 12:33:56;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 12:34:02;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\reportes_2025-10-30.xlsx
+2025-10-30 12:34:11;INFO;SendReport.pix;Reporte enviado con exito
+2025-10-30 12:34:18;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 12:34:20;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 12:34:20;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 12:34:20;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 12:34:20;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 12:34:20;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 12:34:20;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 12:34:20;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 12:34:20;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 12:34:24;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 12:34:48;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\reportes_2025-10-30.xlsx
+2025-10-30 12:35:00;INFO;SendReport.pix;Reporte enviado con exito
+2025-10-30 12:35:01;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-30.xlsx ruta en proceso 
+2025-10-30 12:35:01;DEBUG;UploadOnedrive.pix;3 Cantidad items en ruta 
+2025-10-30 12:35:01;DEBUG;UploadOnedrive.pix;1 Contador 
+2025-10-30 12:35:01;DEBUG;UploadOnedrive.pix;RPA item en proceso 
+2025-10-30 12:35:01;DEBUG;UploadOnedrive.pix;RPA Path concatenado 
+2025-10-30 12:35:01;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA 
+2025-10-30 12:35:02;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:22:43Z","eTag":"\"{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},2\"","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:22:43Z","name":"RPA","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX56Y2GOVW7725BZO354PWSELRRZ","name":"Documents","path":"/drive/root:","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA","cTag":"\"c:{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:22:43Z","lastModifiedDateTime":"2025-10-30T03:22:43Z"},"folder":{"childCount":2},"size":31010}
+2025-10-30 12:35:02;DEBUG;UploadOnedrive.pix;2 Contador 
+2025-10-30 12:35:02;DEBUG;UploadOnedrive.pix;Reportes item en proceso 
+2025-10-30 12:35:02;DEBUG;UploadOnedrive.pix;RPA/Reportes Path concatenado 
+2025-10-30 12:35:02;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes 
+2025-10-30 12:35:02;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:31:26Z","eTag":"\"{C728FF1F-C44D-4164-9337-39BD152D28ED},2\"","id":"01J4OVHXY774UMOTOEMRAZGNZZXUKS2KHN","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:31:26Z","name":"Reportes","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","name":"RPA","path":"/drive/root:/RPA","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA/Reportes","cTag":"\"c:{C728FF1F-C44D-4164-9337-39BD152D28ED},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:31:26Z","lastModifiedDateTime":"2025-10-30T03:31:26Z"},"folder":{"childCount":2},"size":20367}
+2025-10-30 12:35:02;DEBUG;UploadOnedrive.pix;3 Contador 
+2025-10-30 12:35:02;DEBUG;UploadOnedrive.pix;Reporte_2025-10-30.xlsx item en proceso 
+2025-10-30 12:35:02;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-30.xlsx Path concatenado 
+2025-10-30 12:35:03;INFO;UploadOnedrive.pix;Extension del archivo .xlsx 
+2025-10-30 12:35:03;INFO;UploadOnedrive.pix;Nombre de archivo a subir Reporte_2025-10-30.xlsx 
+2025-10-30 12:35:03;DEBUG;UploadOnedrive.pix;Endpoint para subir archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes/Reporte_2025-10-30.xlsx:/content 
+2025-10-30 12:35:03;DEBUG;UploadOnedrive.pix; Subir archivo ruta completa RPA/Reportes/Reporte_2025-10-30.xlsx2025-10-30 12:35:03;INFO;upload_onedrive.pix;Actividad iniciada con exito
+2025-10-30 12:35:06;DEBUG;upload_onedrive.pix;Subida de archivos de manera exitosa @{@odata.context=https://graph.microsoft.com/v1.0/$metadata#users('1d0615e9-029f-450c-aafe-fd3cbd95b734')/drive/root/$entity; @microsoft.graph.downloadUrl=https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=7a4130f8-db18-40bc-bb74-0ee100f5e341&Translate=false&tempauth=v1.eyJzaXRlaWQiOiIwNDBmYjQ1NS02MjEwLTRkOWItODk0Yi1iMzM0NzZhNGMyNzIiLCJhcHBfZGlzcGxheW5hbWUiOiJQaXhSUEFfTVNHcmFwaCIsImFwcGlkIjoiYTkwYmUyZmEtMGM4OS00MTk3LThmNmQtODkwODYzNWQxNzkyIiwiYXVkIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwL3BpeHBydWViYXMtbXkuc2hhcmVwb2ludC5jb21ANjM2OTU1OWQtYzgyZS00N2M0LTg5OTYtNDNkODcyYzgxMjFmIiwiZXhwIjoiMTc2MTg0OTMwOCJ9.CkAKDGVudHJhX2NsYWltcxIwQ0ovQmpzZ0dFQUFhRm1kaGMxbFlXSFYwUTFWNVozVnFTMDQwWjJVd1FWRXFBQT09CjIKCmFjdG9yYXBwaWQSJDAwMDAwMDAzLTAwMDAtMDAwMC1jMDAwLTAwMDAwMDAwMDAwMAoKCgRzbmlkEgI2NBILCKCd6MCW-cs-EAUaDTQwLjEyNi4yNC4xNTIqLC85TEFJbE9PVlpHYW02YnQ5YmpSTzNINDRSakRvSXlOSjhoaFJOMjhjamM9MK0BOAFCEKHUhc3FIAAQCiOTXfYItsNKEGhhc2hlZHByb29mdG9rZW5qJDAwOWQzMjQ5LTY3ZmItYTQ3NS04ZGUyLTYxMmU3YzIwYmNlNHIpMGguZnxtZW1iZXJzaGlwfDEwMDMyMDA1MGFjMTZjOWZAbGl2ZS5jb216ATKCARIJnVVpYy7IxEcRiZZD2HLIEh-SAQVPc2NhcpoBCENhc3Rhw7FvogEnb3NjYXJjYXN0YW5vQHBpeHBydWViYXMub25taWNyb3NvZnQuY29tqgEQMTAwMzIwMDUwQUMxNkM5RrIBc215ZmlsZXMucmVhZCBhbGxmaWxlcy5yZWFkIG15ZmlsZXMud3JpdGUgYWxsZmlsZXMud3JpdGUgbXlhcHBmb2xkZXIud3JpdGUgZmlsZXMuc2VsZWN0ZWRvcGVyYXRpb25zIGFsbHByb2ZpbGVzLnJlYWTIAQE.6qOSBNPNAYfTQTZyYyvnteouLoBFVwykntth9vD_uOY&ApiVersion=2.0; createdDateTime=10/30/2025 3:36:10 PM; eTag="{7A4130F8-DB18-40BC-BB74-0EE100F5E341},3"; id=01J4OVHX7YGBAXUGG3XRALW5AO4EAPLY2B; lastModifiedDateTime=10/30/2025 5:35:09 PM; name=Reporte_2025-10-30.xlsx; webUrl=https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B7A4130F8-DB18-40BC-BB74-0EE100F5E341%7D&file=Reporte_2025-10-30.xlsx&action=default&mobileredirect=true; cTag="c:{7A4130F8-DB18-40BC-BB74-0EE100F5E341},3"; size=13258; createdBy=; lastModifiedBy=; parentReference=; file=; fileSystemInfo=}
+2025-10-30 12:35:06;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes/Reporte_2025-10-30.xlsx 
+2025-10-30 12:35:06;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","@microsoft.graph.downloadUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=7a4130f8-db18-40bc-bb74-0ee100f5e341&Translate=false&tempauth=v1.eyJzaXRlaWQiOiIwNDBmYjQ1NS02MjEwLTRkOWItODk0Yi1iMzM0NzZhNGMyNzIiLCJhcHBfZGlzcGxheW5hbWUiOiJQaXhSUEFfTVNHcmFwaCIsImFwcGlkIjoiYTkwYmUyZmEtMGM4OS00MTk3LThmNmQtODkwODYzNWQxNzkyIiwiYXVkIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwL3BpeHBydWViYXMtbXkuc2hhcmVwb2ludC5jb21ANjM2OTU1OWQtYzgyZS00N2M0LTg5OTYtNDNkODcyYzgxMjFmIiwiZXhwIjoiMTc2MTg0OTMwOCJ9.CkAKDGVudHJhX2NsYWltcxIwQ0p2QmpzZ0dFQUFhRmpWblduTlZPVjgyZDJ0eFdXUXRYek4zUWtwVFFVRXFBQT09CjIKCmFjdG9yYXBwaWQSJDAwMDAwMDAzLTAwMDAtMDAwMC1jMDAwLTAwMDAwMDAwMDAwMAoKCgRzbmlkEgI2NBILCPqDl8WW-cs-EAUaDTQwLjEyNi4yNC4xNTIqLC85TEFJbE9PVlpHYW02YnQ5YmpSTzNINDRSakRvSXlOSjhoaFJOMjhjamM9MK0BOAFCEKHUhc4G4AAQCiOVUpUnhY5KEGhhc2hlZHByb29mdG9rZW5qJDAwOWQzMjQ5LTdlODUtYmVjNi0wODM4LTk0MzgzMWQ5NDJkMHIpMGguZnxtZW1iZXJzaGlwfDEwMDMyMDA1MGFjMTZjOWZAbGl2ZS5jb216ATKCARIJnVVpYy7IxEcRiZZD2HLIEh-SAQVPc2NhcpoBCENhc3Rhw7FvogEnb3NjYXJjYXN0YW5vQHBpeHBydWViYXMub25taWNyb3NvZnQuY29tqgEQMTAwMzIwMDUwQUMxNkM5RrIBc215ZmlsZXMucmVhZCBhbGxmaWxlcy5yZWFkIG15ZmlsZXMud3JpdGUgYWxsZmlsZXMud3JpdGUgbXlhcHBmb2xkZXIud3JpdGUgZmlsZXMuc2VsZWN0ZWRvcGVyYXRpb25zIGFsbHByb2ZpbGVzLnJlYWTIAQE.ULSHrUG0QpRHUOESzgoI8y-Pdh7nTTSpTWjNepYj7kU&ApiVersion=2.0","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T15:36:10Z","eTag":"\"{7A4130F8-DB18-40BC-BB74-0EE100F5E341},3\"","id":"01J4OVHX7YGBAXUGG3XRALW5AO4EAPLY2B","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T17:35:09Z","name":"Reporte_2025-10-30.xlsx","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHXY774UMOTOEMRAZGNZZXUKS2KHN","name":"Reportes","path":"/drive/root:/RPA/Reportes","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B7A4130F8-DB18-40BC-BB74-0EE100F5E341%7D&file=Reporte_2025-10-30.xlsx&action=default&mobileredirect=true","cTag":"\"c:{7A4130F8-DB18-40BC-BB74-0EE100F5E341},3\"","file":{"hashes":{"quickXorHash":"plUi11eD82ZVIIlkwe1twfCb60Q="},"mimeType":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},"fileSystemInfo":{"createdDateTime":"2025-10-30T15:36:10Z","lastModifiedDateTime":"2025-10-30T17:35:09Z"},"size":13258}
+2025-10-30 12:35:06;DEBUG;UploadOnedrive.pix;RPA/Logs/Productos_2025-10-30.json ruta en proceso 
+2025-10-30 12:35:06;DEBUG;UploadOnedrive.pix;3 Cantidad items en ruta 
+2025-10-30 12:35:06;DEBUG;UploadOnedrive.pix;1 Contador 
+2025-10-30 12:35:06;DEBUG;UploadOnedrive.pix;RPA item en proceso 
+2025-10-30 12:35:06;DEBUG;UploadOnedrive.pix;RPA Path concatenado 
+2025-10-30 12:35:06;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA 
+2025-10-30 12:35:07;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:22:43Z","eTag":"\"{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},2\"","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:22:43Z","name":"RPA","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX56Y2GOVW7725BZO354PWSELRRZ","name":"Documents","path":"/drive/root:","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA","cTag":"\"c:{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:22:43Z","lastModifiedDateTime":"2025-10-30T03:22:43Z"},"folder":{"childCount":2},"size":31010}
+2025-10-30 12:35:07;DEBUG;UploadOnedrive.pix;2 Contador 
+2025-10-30 12:35:07;DEBUG;UploadOnedrive.pix;Logs item en proceso 
+2025-10-30 12:35:07;DEBUG;UploadOnedrive.pix;RPA/Logs Path concatenado 
+2025-10-30 12:35:07;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Logs 
+2025-10-30 12:35:07;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T15:36:12Z","eTag":"\"{706622AE-E044-465D-ACDF-A83C2ABD4036},2\"","id":"01J4OVHX5OEJTHARHALVDKZX5IHQVL2QBW","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T15:36:12Z","name":"Logs","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","name":"RPA","path":"/drive/root:/RPA","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA/Logs","cTag":"\"c:{706622AE-E044-465D-ACDF-A83C2ABD4036},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T15:36:12Z","lastModifiedDateTime":"2025-10-30T15:36:12Z"},"folder":{"childCount":1},"size":10643}
+2025-10-30 12:35:07;DEBUG;UploadOnedrive.pix;3 Contador 
+2025-10-30 12:35:07;DEBUG;UploadOnedrive.pix;Productos_2025-10-30.json item en proceso 
+2025-10-30 12:35:07;DEBUG;UploadOnedrive.pix;RPA/Logs/Productos_2025-10-30.json Path concatenado 
+2025-10-30 12:35:07;INFO;UploadOnedrive.pix;Extension del archivo .json 
+2025-10-30 12:35:07;INFO;UploadOnedrive.pix;Nombre de archivo a subir Productos_2025-10-30.json 
+2025-10-30 12:35:07;DEBUG;UploadOnedrive.pix;Endpoint para subir archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Logs/Productos_2025-10-30.json:/content 
+2025-10-30 12:35:07;DEBUG;UploadOnedrive.pix; Subir archivo ruta completa RPA/Logs/Productos_2025-10-30.json2025-10-30 12:35:07;INFO;upload_onedrive.pix;Actividad iniciada con exito
+2025-10-30 12:35:09;DEBUG;upload_onedrive.pix;Subida de archivos de manera exitosa @{@odata.context=https://graph.microsoft.com/v1.0/$metadata#users('1d0615e9-029f-450c-aafe-fd3cbd95b734')/drive/root/$entity; @microsoft.graph.downloadUrl=https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=a90d34bd-ee5e-43e2-bb5f-77531dea2707&Translate=false&tempauth=v1.eyJzaXRlaWQiOiIwNDBmYjQ1NS02MjEwLTRkOWItODk0Yi1iMzM0NzZhNGMyNzIiLCJhcHBfZGlzcGxheW5hbWUiOiJQaXhSUEFfTVNHcmFwaCIsImFwcGlkIjoiYTkwYmUyZmEtMGM4OS00MTk3LThmNmQtODkwODYzNWQxNzkyIiwiYXVkIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwL3BpeHBydWViYXMtbXkuc2hhcmVwb2ludC5jb21ANjM2OTU1OWQtYzgyZS00N2M0LTg5OTYtNDNkODcyYzgxMjFmIiwiZXhwIjoiMTc2MTg0OTMxMSJ9.CkAKDGVudHJhX2NsYWltcxIwQ0tQQmpzZ0dFQUFhRmpkUmVWbGpiR2s0U210VFMxUnNWSHBZYUVsVFFXY3FBQT09CjIKCmFjdG9yYXBwaWQSJDAwMDAwMDAzLTAwMDAtMDAwMC1jMDAwLTAwMDAwMDAwMDAwMAoKCgRzbmlkEgI2NBILCPbY3eCW-cs-EAUaDTQwLjEyNi4yNC4xNTIqLGdxNmV2WlJuQW0vMm1JOXJMS24rU0Fad3BkdEVSTlNzVlBzeXVUM1pNbTg9MK0BOAFCEKHUhc6r0AAQCiOVgjGO_vBKEGhhc2hlZHByb29mdG9rZW5qJDAwOWQzMjQ5LWE3ZGQtNjUzMC0xY2MxLTUzYjYzYjUzZDU5OHIpMGguZnxtZW1iZXJzaGlwfDEwMDMyMDA1MGFjMTZjOWZAbGl2ZS5jb216ATKCARIJnVVpYy7IxEcRiZZD2HLIEh-SAQVPc2NhcpoBCENhc3Rhw7FvogEnb3NjYXJjYXN0YW5vQHBpeHBydWViYXMub25taWNyb3NvZnQuY29tqgEQMTAwMzIwMDUwQUMxNkM5RrIBc215ZmlsZXMucmVhZCBhbGxmaWxlcy5yZWFkIG15ZmlsZXMud3JpdGUgYWxsZmlsZXMud3JpdGUgbXlhcHBmb2xkZXIud3JpdGUgZmlsZXMuc2VsZWN0ZWRvcGVyYXRpb25zIGFsbHByb2ZpbGVzLnJlYWTIAQE.f9selmPY2b5E-W7AHJLIYPTwWcOB8mJv6S7zWrqUh7w&ApiVersion=2.0; createdDateTime=10/30/2025 3:36:15 PM; eTag="{A90D34BD-EE5E-43E2-BB5F-77531DEA2707},2"; id=01J4OVHX55GQG2SXXO4JB3WX3XKMO6UJYH; lastModifiedDateTime=10/30/2025 5:35:12 PM; name=Productos_2025-10-30.json; webUrl=https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA/Logs/Productos_2025-10-30.json; cTag="c:{A90D34BD-EE5E-43E2-BB5F-77531DEA2707},2"; size=10643; createdBy=; lastModifiedBy=; parentReference=; file=; fileSystemInfo=}
+2025-10-30 12:35:09;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Logs/Productos_2025-10-30.json 
+2025-10-30 12:35:10;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","@microsoft.graph.downloadUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=a90d34bd-ee5e-43e2-bb5f-77531dea2707&Translate=false&tempauth=v1.eyJzaXRlaWQiOiIwNDBmYjQ1NS02MjEwLTRkOWItODk0Yi1iMzM0NzZhNGMyNzIiLCJhcHBfZGlzcGxheW5hbWUiOiJQaXhSUEFfTVNHcmFwaCIsImFwcGlkIjoiYTkwYmUyZmEtMGM4OS00MTk3LThmNmQtODkwODYzNWQxNzkyIiwiYXVkIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwL3BpeHBydWViYXMtbXkuc2hhcmVwb2ludC5jb21ANjM2OTU1OWQtYzgyZS00N2M0LTg5OTYtNDNkODcyYzgxMjFmIiwiZXhwIjoiMTc2MTg0OTMxMiJ9.CkAKDGVudHJhX2NsYWltcxIwQ0p2QmpzZ0dFQUFhRmpWblduTlZPVjgyZDJ0eFdXUXRYek4zUWtwVFFVRXFBQT09CjIKCmFjdG9yYXBwaWQSJDAwMDAwMDAzLTAwMDAtMDAwMC1jMDAwLTAwMDAwMDAwMDAwMAoKCgRzbmlkEgI2NBILCI78-OSW-cs-EAUaDTQwLjEyNi4yNC4xNTIqLGdxNmV2WlJuQW0vMm1JOXJMS24rU0Fad3BkdEVSTlNzVlBzeXVUM1pNbTg9MK0BOAFCEKHUhc7VEAAQCiOa6t3XNipKEGhhc2hlZHByb29mdG9rZW5qJDAwOWQzMjQ5LTdlODUtYmVjNi0wODM4LTk0MzgzMWQ5NDJkMHIpMGguZnxtZW1iZXJzaGlwfDEwMDMyMDA1MGFjMTZjOWZAbGl2ZS5jb216ATKCARIJnVVpYy7IxEcRiZZD2HLIEh-SAQVPc2NhcpoBCENhc3Rhw7FvogEnb3NjYXJjYXN0YW5vQHBpeHBydWViYXMub25taWNyb3NvZnQuY29tqgEQMTAwMzIwMDUwQUMxNkM5RrIBc215ZmlsZXMucmVhZCBhbGxmaWxlcy5yZWFkIG15ZmlsZXMud3JpdGUgYWxsZmlsZXMud3JpdGUgbXlhcHBmb2xkZXIud3JpdGUgZmlsZXMuc2VsZWN0ZWRvcGVyYXRpb25zIGFsbHByb2ZpbGVzLnJlYWTIAQE.bz7BE5xZxcMFjQMtrQB6mGigkEfH3FKP41pr6bZWijE&ApiVersion=2.0","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T15:36:15Z","eTag":"\"{A90D34BD-EE5E-43E2-BB5F-77531DEA2707},2\"","id":"01J4OVHX55GQG2SXXO4JB3WX3XKMO6UJYH","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T17:35:12Z","name":"Productos_2025-10-30.json","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX5OEJTHARHALVDKZX5IHQVL2QBW","name":"Logs","path":"/drive/root:/RPA/Logs","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA/Logs/Productos_2025-10-30.json","cTag":"\"c:{A90D34BD-EE5E-43E2-BB5F-77531DEA2707},2\"","file":{"hashes":{"quickXorHash":"bWVIQUzW/9OQPViTRIJGFBzf5mI="},"mimeType":"application/json"},"fileSystemInfo":{"createdDateTime":"2025-10-30T15:36:15Z","lastModifiedDateTime":"2025-10-30T17:35:12Z"},"size":10643}
+2025-10-30 12:35:10;ERROR;Main.pix;Error System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Script.Step_83dfb998_b995_4a57_b88a_733d37a506f8.Calculate_Text()
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodInvoker.Invoke(Object obj, IntPtr* args, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodInvoker.Invoke(Object obj, IntPtr* args, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at BR.Engine.ScriptCompilation.GetInPropertyValues(AbstractStep step, IEnumerable`1 properties, Context context)
+   at BR.Engine.Runtimer.AssignInPropertiesAsync(ExecutableStep step)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 12:35:22;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 12:35:27;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 12:46:12;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 12:46:12;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 12:46:12;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 12:46:12;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 12:46:12;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 12:46:13;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 12:46:13;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 12:46:13;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 12:46:17;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 12:46:41;ERROR;Main.pix;Error OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at Web.Core.Browsers.Selenium.SeleniumElement.Click(Int32 timeout_ms, CancellationToken ct)
+   at Activities.Web.ClickElement.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 12:47:43;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 12:47:56;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 12:47:59;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 12:47:59;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 12:47:59;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 12:47:59;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 12:47:59;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 12:47:59;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 12:47:59;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 12:47:59;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 12:48:03;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 12:48:47;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 12:48:47;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 12:48:47;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 12:48:47;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 12:48:47;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 12:48:47;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 12:48:47;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 12:48:47;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 12:48:51;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 12:49:15;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\reportes_2025-10-30.xlsx
+2025-10-30 12:49:27;INFO;SendReport.pix;Reporte enviado con exito
+2025-10-30 12:49:28;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-30.xlsx ruta en proceso 
+2025-10-30 12:49:28;DEBUG;UploadOnedrive.pix;3 Cantidad items en ruta 
+2025-10-30 12:49:28;DEBUG;UploadOnedrive.pix;1 Contador 
+2025-10-30 12:49:28;DEBUG;UploadOnedrive.pix;RPA item en proceso 
+2025-10-30 12:49:28;DEBUG;UploadOnedrive.pix;RPA Path concatenado 
+2025-10-30 12:49:28;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA 
+2025-10-30 12:49:29;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:22:43Z","eTag":"\"{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},2\"","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:22:43Z","name":"RPA","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX56Y2GOVW7725BZO354PWSELRRZ","name":"Documents","path":"/drive/root:","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA","cTag":"\"c:{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:22:43Z","lastModifiedDateTime":"2025-10-30T03:22:43Z"},"folder":{"childCount":2},"size":30315}
+2025-10-30 12:49:29;DEBUG;UploadOnedrive.pix;2 Contador 
+2025-10-30 12:49:29;DEBUG;UploadOnedrive.pix;Reportes item en proceso 
+2025-10-30 12:49:29;DEBUG;UploadOnedrive.pix;RPA/Reportes Path concatenado 
+2025-10-30 12:49:29;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes 
+2025-10-30 12:49:29;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:31:26Z","eTag":"\"{C728FF1F-C44D-4164-9337-39BD152D28ED},2\"","id":"01J4OVHXY774UMOTOEMRAZGNZZXUKS2KHN","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:31:26Z","name":"Reportes","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","name":"RPA","path":"/drive/root:/RPA","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA/Reportes","cTag":"\"c:{C728FF1F-C44D-4164-9337-39BD152D28ED},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:31:26Z","lastModifiedDateTime":"2025-10-30T03:31:26Z"},"folder":{"childCount":2},"size":19672}
+2025-10-30 12:49:29;DEBUG;UploadOnedrive.pix;3 Contador 
+2025-10-30 12:49:29;DEBUG;UploadOnedrive.pix;Reporte_2025-10-30.xlsx item en proceso 
+2025-10-30 12:49:29;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-30.xlsx Path concatenado 
+2025-10-30 12:49:29;INFO;UploadOnedrive.pix;Extension del archivo .xlsx 
+2025-10-30 12:49:29;INFO;UploadOnedrive.pix;Nombre de archivo a subir Reporte_2025-10-30.xlsx 
+2025-10-30 12:49:29;DEBUG;UploadOnedrive.pix;Endpoint para subir archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes/Reporte_2025-10-30.xlsx:/content 
+2025-10-30 12:49:29;DEBUG;UploadOnedrive.pix; Subir archivo ruta completa RPA/Reportes/Reporte_2025-10-30.xlsx2025-10-30 12:49:29;INFO;upload_onedrive.pix;Actividad iniciada con exito
+2025-10-30 12:49:32;DEBUG;upload_onedrive.pix;Subida de archivos de manera exitosa @{@odata.context=https://graph.microsoft.com/v1.0/$metadata#users('1d0615e9-029f-450c-aafe-fd3cbd95b734')/drive/root/$entity; @microsoft.graph.downloadUrl=https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=7a4130f8-db18-40bc-bb74-0ee100f5e341&Translate=false&tempauth=v1.eyJzaXRlaWQiOiIwNDBmYjQ1NS02MjEwLTRkOWItODk0Yi1iMzM0NzZhNGMyNzIiLCJhcHBfZGlzcGxheW5hbWUiOiJQaXhSUEFfTVNHcmFwaCIsImFwcGlkIjoiYTkwYmUyZmEtMGM4OS00MTk3LThmNmQtODkwODYzNWQxNzkyIiwiYXVkIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwL3BpeHBydWViYXMtbXkuc2hhcmVwb2ludC5jb21ANjM2OTU1OWQtYzgyZS00N2M0LTg5OTYtNDNkODcyYzgxMjFmIiwiZXhwIjoiMTc2MTg1MDE3NCJ9.CkAKDGVudHJhX2NsYWltcxIwQ0lISWpzZ0dFQUFhRm1SQ1lVOUliRXBtTW10eE0xZFVaVEl0V1ZaTVFVRXFBQT09CjIKCmFjdG9yYXBwaWQSJDAwMDAwMDAzLTAwMDAtMDAwMC1jMDAwLTAwMDAwMDAwMDAwMAoKCgRzbmlkEgI2NBILCPz6h4XX-cs-EAUaDTQwLjEyNi4yNC4xNTMqLC85TEFJbE9PVlpHYW02YnQ5YmpSTzNINDRSakRvSXlOSjhoaFJOMjhjamM9MK0BOAFCEKHUhqFLIAAQCiOSRtJhcH9KEGhhc2hlZHByb29mdG9rZW5qJDAwOWQzMjQ5LWIzODYtOWJmMi0yNWQ2LTc2YmRlYjdlOWMxOXIpMGguZnxtZW1iZXJzaGlwfDEwMDMyMDA1MGFjMTZjOWZAbGl2ZS5jb216ATKCARIJnVVpYy7IxEcRiZZD2HLIEh-SAQVPc2NhcpoBCENhc3Rhw7FvogEnb3NjYXJjYXN0YW5vQHBpeHBydWViYXMub25taWNyb3NvZnQuY29tqgEQMTAwMzIwMDUwQUMxNkM5RrIBc215ZmlsZXMucmVhZCBhbGxmaWxlcy5yZWFkIG15ZmlsZXMud3JpdGUgYWxsZmlsZXMud3JpdGUgbXlhcHBmb2xkZXIud3JpdGUgZmlsZXMuc2VsZWN0ZWRvcGVyYXRpb25zIGFsbHByb2ZpbGVzLnJlYWTIAQE.8tiCXvidI2-O-ssQ30W-Z-qZS7bXNUQaZE_wkyJF9PU&ApiVersion=2.0; createdDateTime=10/30/2025 3:36:10 PM; eTag="{7A4130F8-DB18-40BC-BB74-0EE100F5E341},4"; id=01J4OVHX7YGBAXUGG3XRALW5AO4EAPLY2B; lastModifiedDateTime=10/30/2025 5:49:34 PM; name=Reporte_2025-10-30.xlsx; webUrl=https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B7A4130F8-DB18-40BC-BB74-0EE100F5E341%7D&file=Reporte_2025-10-30.xlsx&action=default&mobileredirect=true; cTag="c:{7A4130F8-DB18-40BC-BB74-0EE100F5E341},4"; size=13274; createdBy=; lastModifiedBy=; parentReference=; file=; fileSystemInfo=}
+2025-10-30 12:49:32;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes/Reporte_2025-10-30.xlsx 
+2025-10-30 12:49:33;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","@microsoft.graph.downloadUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=7a4130f8-db18-40bc-bb74-0ee100f5e341&Translate=false&tempauth=v1.eyJzaXRlaWQiOiIwNDBmYjQ1NS02MjEwLTRkOWItODk0Yi1iMzM0NzZhNGMyNzIiLCJhcHBfZGlzcGxheW5hbWUiOiJQaXhSUEFfTVNHcmFwaCIsImFwcGlkIjoiYTkwYmUyZmEtMGM4OS00MTk3LThmNmQtODkwODYzNWQxNzkyIiwiYXVkIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwL3BpeHBydWViYXMtbXkuc2hhcmVwb2ludC5jb21ANjM2OTU1OWQtYzgyZS00N2M0LTg5OTYtNDNkODcyYzgxMjFmIiwiZXhwIjoiMTc2MTg1MDE3NSJ9.CkAKDGVudHJhX2NsYWltcxIwQ1A3SGpzZ0dFQUFhRmxCNFRXWkliRkI0TmxWSFNTMWlYM0V0VjNwclFWRXFBQT09CjIKCmFjdG9yYXBwaWQSJDAwMDAwMDAzLTAwMDAtMDAwMC1jMDAwLTAwMDAwMDAwMDAwMAoKCgRzbmlkEgI2NBILCPjt-4vX-cs-EAUaDTQwLjEyNi4yNC4xNTMqLC85TEFJbE9PVlpHYW02YnQ5YmpSTzNINDRSakRvSXlOSjhoaFJOMjhjamM9MK0BOAFCEKHUhqGJ8AAQCiOfmgOq7ANKEGhhc2hlZHByb29mdG9rZW5qJDAwOWQzMjQ5LWIyMGEtNmNkMy0xMDNkLWU4N2VkNTc5ZjkyNnIpMGguZnxtZW1iZXJzaGlwfDEwMDMyMDA1MGFjMTZjOWZAbGl2ZS5jb216ATKCARIJnVVpYy7IxEcRiZZD2HLIEh-SAQVPc2NhcpoBCENhc3Rhw7FvogEnb3NjYXJjYXN0YW5vQHBpeHBydWViYXMub25taWNyb3NvZnQuY29tqgEQMTAwMzIwMDUwQUMxNkM5RrIBc215ZmlsZXMucmVhZCBhbGxmaWxlcy5yZWFkIG15ZmlsZXMud3JpdGUgYWxsZmlsZXMud3JpdGUgbXlhcHBmb2xkZXIud3JpdGUgZmlsZXMuc2VsZWN0ZWRvcGVyYXRpb25zIGFsbHByb2ZpbGVzLnJlYWTIAQE.ersZFwLDKw4Q2_6_d3_Wrse3tIaot40vYTtLIbJJSJ8&ApiVersion=2.0","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T15:36:10Z","eTag":"\"{7A4130F8-DB18-40BC-BB74-0EE100F5E341},4\"","id":"01J4OVHX7YGBAXUGG3XRALW5AO4EAPLY2B","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T17:49:34Z","name":"Reporte_2025-10-30.xlsx","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHXY774UMOTOEMRAZGNZZXUKS2KHN","name":"Reportes","path":"/drive/root:/RPA/Reportes","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B7A4130F8-DB18-40BC-BB74-0EE100F5E341%7D&file=Reporte_2025-10-30.xlsx&action=default&mobileredirect=true","cTag":"\"c:{7A4130F8-DB18-40BC-BB74-0EE100F5E341},4\"","file":{"hashes":{"quickXorHash":"IIONzlysR6vAa8VEoNrH0SBh4M8="},"mimeType":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},"fileSystemInfo":{"createdDateTime":"2025-10-30T15:36:10Z","lastModifiedDateTime":"2025-10-30T17:49:34Z"},"size":13274}
+2025-10-30 12:49:33;DEBUG;UploadOnedrive.pix;RPA/Logs/Productos_2025-10-30.json ruta en proceso 
+2025-10-30 12:49:33;DEBUG;UploadOnedrive.pix;3 Cantidad items en ruta 
+2025-10-30 12:49:33;DEBUG;UploadOnedrive.pix;1 Contador 
+2025-10-30 12:49:33;DEBUG;UploadOnedrive.pix;RPA item en proceso 
+2025-10-30 12:49:33;DEBUG;UploadOnedrive.pix;RPA Path concatenado 
+2025-10-30 12:49:33;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA 
+2025-10-30 12:49:34;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:22:43Z","eTag":"\"{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},2\"","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:22:43Z","name":"RPA","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX56Y2GOVW7725BZO354PWSELRRZ","name":"Documents","path":"/drive/root:","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA","cTag":"\"c:{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:22:43Z","lastModifiedDateTime":"2025-10-30T03:22:43Z"},"folder":{"childCount":2},"size":30315}
+2025-10-30 12:49:34;DEBUG;UploadOnedrive.pix;2 Contador 
+2025-10-30 12:49:34;DEBUG;UploadOnedrive.pix;Logs item en proceso 
+2025-10-30 12:49:34;DEBUG;UploadOnedrive.pix;RPA/Logs Path concatenado 
+2025-10-30 12:49:34;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Logs 
+2025-10-30 12:49:34;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T15:36:12Z","eTag":"\"{706622AE-E044-465D-ACDF-A83C2ABD4036},2\"","id":"01J4OVHX5OEJTHARHALVDKZX5IHQVL2QBW","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T15:36:12Z","name":"Logs","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","name":"RPA","path":"/drive/root:/RPA","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA/Logs","cTag":"\"c:{706622AE-E044-465D-ACDF-A83C2ABD4036},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T15:36:12Z","lastModifiedDateTime":"2025-10-30T15:36:12Z"},"folder":{"childCount":1},"size":10643}
+2025-10-30 12:49:34;DEBUG;UploadOnedrive.pix;3 Contador 
+2025-10-30 12:49:34;DEBUG;UploadOnedrive.pix;Productos_2025-10-30.json item en proceso 
+2025-10-30 12:49:34;DEBUG;UploadOnedrive.pix;RPA/Logs/Productos_2025-10-30.json Path concatenado 
+2025-10-30 12:49:34;INFO;UploadOnedrive.pix;Extension del archivo .json 
+2025-10-30 12:49:34;INFO;UploadOnedrive.pix;Nombre de archivo a subir Productos_2025-10-30.json 
+2025-10-30 12:49:34;DEBUG;UploadOnedrive.pix;Endpoint para subir archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Logs/Productos_2025-10-30.json:/content 
+2025-10-30 12:49:34;DEBUG;UploadOnedrive.pix; Subir archivo ruta completa RPA/Logs/Productos_2025-10-30.json2025-10-30 12:49:34;INFO;upload_onedrive.pix;Actividad iniciada con exito
+2025-10-30 12:49:36;DEBUG;upload_onedrive.pix;Subida de archivos de manera exitosa @{@odata.context=https://graph.microsoft.com/v1.0/$metadata#users('1d0615e9-029f-450c-aafe-fd3cbd95b734')/drive/root/$entity; @microsoft.graph.downloadUrl=https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=a90d34bd-ee5e-43e2-bb5f-77531dea2707&Translate=false&tempauth=v1.eyJzaXRlaWQiOiIwNDBmYjQ1NS02MjEwLTRkOWItODk0Yi1iMzM0NzZhNGMyNzIiLCJhcHBfZGlzcGxheW5hbWUiOiJQaXhSUEFfTVNHcmFwaCIsImFwcGlkIjoiYTkwYmUyZmEtMGM4OS00MTk3LThmNmQtODkwODYzNWQxNzkyIiwiYXVkIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwL3BpeHBydWViYXMtbXkuc2hhcmVwb2ludC5jb21ANjM2OTU1OWQtYzgyZS00N2M0LTg5OTYtNDNkODcyYzgxMjFmIiwiZXhwIjoiMTc2MTg1MDE3OCJ9.CkAKDGVudHJhX2NsYWltcxIwQ0lYSWpzZ0dFQUFhRm5SdFZYWkdZMFV0YzJ0aE1sWlFjMWhUV2pnd1FVRXFBQT09CjIKCmFjdG9yYXBwaWQSJDAwMDAwMDAzLTAwMDAtMDAwMC1jMDAwLTAwMDAwMDAwMDAwMAoKCgRzbmlkEgI2NBILCKac96jX-cs-EAUaDTQwLjEyNi4yNC4xNTMqLGdxNmV2WlJuQW0vMm1JOXJMS24rU0Fad3BkdEVSTlNzVlBzeXVUM1pNbTg9MK0BOAFCEKHUhqI7EAAQE0OH7CeOljhKEGhhc2hlZHByb29mdG9rZW5qJDAwOWQzMjQ5LWVjN2QtMjE2OS00MWU2LTgxZTQyYjMxMGFmYXIpMGguZnxtZW1iZXJzaGlwfDEwMDMyMDA1MGFjMTZjOWZAbGl2ZS5jb216ATKCARIJnVVpYy7IxEcRiZZD2HLIEh-SAQVPc2NhcpoBCENhc3Rhw7FvogEnb3NjYXJjYXN0YW5vQHBpeHBydWViYXMub25taWNyb3NvZnQuY29tqgEQMTAwMzIwMDUwQUMxNkM5RrIBc215ZmlsZXMucmVhZCBhbGxmaWxlcy5yZWFkIG15ZmlsZXMud3JpdGUgYWxsZmlsZXMud3JpdGUgbXlhcHBmb2xkZXIud3JpdGUgZmlsZXMuc2VsZWN0ZWRvcGVyYXRpb25zIGFsbHByb2ZpbGVzLnJlYWTIAQE.hzWr7M_ampCwopVvfJYzCQhSr0coaLx4i8tO8PT8z0k&ApiVersion=2.0; createdDateTime=10/30/2025 3:36:15 PM; eTag="{A90D34BD-EE5E-43E2-BB5F-77531DEA2707},3"; id=01J4OVHX55GQG2SXXO4JB3WX3XKMO6UJYH; lastModifiedDateTime=10/30/2025 5:49:38 PM; name=Productos_2025-10-30.json; webUrl=https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA/Logs/Productos_2025-10-30.json; cTag="c:{A90D34BD-EE5E-43E2-BB5F-77531DEA2707},3"; size=10643; createdBy=; lastModifiedBy=; parentReference=; file=; fileSystemInfo=}
+2025-10-30 12:49:36;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Logs/Productos_2025-10-30.json 
+2025-10-30 12:49:37;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","@microsoft.graph.downloadUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=a90d34bd-ee5e-43e2-bb5f-77531dea2707&Translate=false&tempauth=v1.eyJzaXRlaWQiOiIwNDBmYjQ1NS02MjEwLTRkOWItODk0Yi1iMzM0NzZhNGMyNzIiLCJhcHBfZGlzcGxheW5hbWUiOiJQaXhSUEFfTVNHcmFwaCIsImFwcGlkIjoiYTkwYmUyZmEtMGM4OS00MTk3LThmNmQtODkwODYzNWQxNzkyIiwiYXVkIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwL3BpeHBydWViYXMtbXkuc2hhcmVwb2ludC5jb21ANjM2OTU1OWQtYzgyZS00N2M0LTg5OTYtNDNkODcyYzgxMjFmIiwiZXhwIjoiMTc2MTg1MDE3OSJ9.CkAKDGVudHJhX2NsYWltcxIwQ1A3SGpzZ0dFQUFhRmxCNFRXWkliRkI0TmxWSFNTMWlYM0V0VjNwclFWRXFBQT09CjIKCmFjdG9yYXBwaWQSJDAwMDAwMDAzLTAwMDAtMDAwMC1jMDAwLTAwMDAwMDAwMDAwMAoKCgRzbmlkEgI2NBILCKTx6LDX-cs-EAUaDTQwLjEyNi4yNC4xNTMqLGdxNmV2WlJuQW0vMm1JOXJMS24rU0Fad3BkdEVSTlNzVlBzeXVUM1pNbTg9MK0BOAFCEKHUhqJ8cAAQCiOaAc8vQE5KEGhhc2hlZHByb29mdG9rZW5qJDAwOWQzMjQ5LWIyMGEtNmNkMy0xMDNkLWU4N2VkNTc5ZjkyNnIpMGguZnxtZW1iZXJzaGlwfDEwMDMyMDA1MGFjMTZjOWZAbGl2ZS5jb216ATKCARIJnVVpYy7IxEcRiZZD2HLIEh-SAQVPc2NhcpoBCENhc3Rhw7FvogEnb3NjYXJjYXN0YW5vQHBpeHBydWViYXMub25taWNyb3NvZnQuY29tqgEQMTAwMzIwMDUwQUMxNkM5RrIBc215ZmlsZXMucmVhZCBhbGxmaWxlcy5yZWFkIG15ZmlsZXMud3JpdGUgYWxsZmlsZXMud3JpdGUgbXlhcHBmb2xkZXIud3JpdGUgZmlsZXMuc2VsZWN0ZWRvcGVyYXRpb25zIGFsbHByb2ZpbGVzLnJlYWTIAQE.XLpoFxcUne8Uf9KDP8biItwzkhyNecegt0P4F4PpGVs&ApiVersion=2.0","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T15:36:15Z","eTag":"\"{A90D34BD-EE5E-43E2-BB5F-77531DEA2707},3\"","id":"01J4OVHX55GQG2SXXO4JB3WX3XKMO6UJYH","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T17:49:38Z","name":"Productos_2025-10-30.json","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX5OEJTHARHALVDKZX5IHQVL2QBW","name":"Logs","path":"/drive/root:/RPA/Logs","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA/Logs/Productos_2025-10-30.json","cTag":"\"c:{A90D34BD-EE5E-43E2-BB5F-77531DEA2707},3\"","file":{"hashes":{"quickXorHash":"bWVIQUzW/9OQPViTRIJGFBzf5mI="},"mimeType":"application/json"},"fileSystemInfo":{"createdDateTime":"2025-10-30T15:36:15Z","lastModifiedDateTime":"2025-10-30T17:49:38Z"},"size":10643}
+2025-10-30 12:49:37;ERROR;Main.pix;Error System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Script.Step_83dfb998_b995_4a57_b88a_733d37a506f8.Calculate_Text()
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodInvoker.Invoke(Object obj, IntPtr* args, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodInvoker.Invoke(Object obj, IntPtr* args, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at BR.Engine.ScriptCompilation.GetInPropertyValues(AbstractStep step, IEnumerable`1 properties, Context context)
+   at BR.Engine.Runtimer.AssignInPropertiesAsync(ExecutableStep step)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 12:53:11;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 12:53:14;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 12:53:14;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 12:53:14;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 12:53:14;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 12:53:14;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 12:53:14;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 12:53:14;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 12:53:14;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 12:53:18;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 12:53:26;ERROR;Main.pix;Error System.InvalidOperationException: Element not found
+   at Activities.Desktop.EnterTextBase.WriteTextToElement(String text, Nullable`1 optionID, Boolean clearBefore, Boolean checkingValue)
+   at Activities.Desktop.EnterTextElement.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 13:05:26;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 13:05:31;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 13:06:35;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 13:06:37;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 13:06:38;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 13:06:38;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 13:06:38;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 13:06:38;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 13:06:38;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:06:38;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:06:38;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 13:06:44;ERROR;Main.pix;Error OpenQA.Selenium.WebDriverException: An unknown exception was encountered sending an HTTP request to the remote WebDriver server for URL http://localhost:55253/session/d597b94daee50739a23c97018b6362b3/url. The exception message was: An error occurred while sending the request.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   --- End of inner exception stack trace ---
+   at Web.Core.Browsers.Selenium.SeleniumBrowser.Navigate(String url, Int32 timeoutMilliseconds)
+   at Activities.Web.LaunchSeleniumBrowser.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 13:09:18;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 13:09:21;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 13:09:21;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 13:09:21;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 13:09:21;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 13:09:21;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 13:09:21;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:09:21;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:09:21;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 13:09:22;ERROR;Main.pix;Error System.InvalidOperationException: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.) (SessionNotCreated)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.StartSession(ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.WebDriver..ctor(ICommandExecutor executor, ICapabilities capabilities)
+   at OpenQA.Selenium.Chromium.ChromiumDriver..ctor(ChromiumDriverService service, ChromiumOptions options, TimeSpan commandTimeout)
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(ChromeDriverService service, ChromeOptions options, TimeSpan commandTimeout)
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(String chromeDriverDirectory, ChromeOptions options, TimeSpan commandTimeout)
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(String chromeDriverDirectory, ChromeOptions options)
+   at Web.Core.Browsers.Selenium.Chrome.ChromeSeleniumBrowser..ctor(String[] args)
+   at Activities.Web.LaunchSeleniumBrowser.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 13:10:05;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 13:13:34;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 13:13:34;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 13:13:34;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 13:13:34;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 13:13:34;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 13:13:34;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:13:34;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:13:35;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 13:13:35;ERROR;Main.pix;Error System.InvalidOperationException: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.) (SessionNotCreated)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.StartSession(ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.WebDriver..ctor(ICommandExecutor executor, ICapabilities capabilities)
+   at OpenQA.Selenium.Chromium.ChromiumDriver..ctor(ChromiumDriverService service, ChromiumOptions options, TimeSpan commandTimeout)
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(ChromeDriverService service, ChromeOptions options, TimeSpan commandTimeout)
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(String chromeDriverDirectory, ChromeOptions options, TimeSpan commandTimeout)
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(String chromeDriverDirectory, ChromeOptions options)
+   at Web.Core.Browsers.Selenium.Chrome.ChromeSeleniumBrowser..ctor(String[] args)
+   at Activities.Web.LaunchSeleniumBrowser.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 13:20:46;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 13:20:48;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 13:20:48;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 13:20:48;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 13:20:48;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 13:20:48;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 13:20:48;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:20:48;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:20:48;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 13:21:09;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 13:21:16;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 13:21:17;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 13:21:17;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 13:21:17;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 13:21:17;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 13:21:17;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:21:17;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:21:17;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 13:21:20;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 13:22:13;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 13:22:19;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 13:22:19;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 13:22:19;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 13:22:19;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 13:22:19;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 13:22:19;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:22:19;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:22:19;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 13:22:23;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 13:22:35;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 13:22:41;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 13:22:41;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 13:22:41;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 13:22:41;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 13:22:41;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 13:22:41;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:22:41;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:22:41;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 13:22:44;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 13:22:50;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\reportes_2025-10-30.xlsx
+2025-10-30 13:29:49;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 13:29:53;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 13:29:53;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 13:29:53;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 13:29:53;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 13:29:53;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 13:29:53;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:29:53;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:29:53;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 13:29:59;ERROR;Main.pix;Error OpenQA.Selenium.WebDriverException: An unknown exception was encountered sending an HTTP request to the remote WebDriver server for URL http://localhost:61965/session/478632c0e6c6d3074c1abe26c814d224/url. The exception message was: An error occurred while sending the request.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   --- End of inner exception stack trace ---
+   at Web.Core.Browsers.Selenium.SeleniumBrowser.Navigate(String url, Int32 timeoutMilliseconds)
+   at Activities.Web.LaunchSeleniumBrowser.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 13:31:40;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 13:31:42;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 13:31:42;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 13:31:42;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 13:31:42;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 13:31:42;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 13:31:42;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:31:42;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:31:42;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 13:31:46;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 13:31:51;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\reportes_2025-10-30.xlsx
+2025-10-30 13:32:00;INFO;SendReport.pix;Reporte enviado con exito
+2025-10-30 13:41:01;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 13:41:20;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 13:41:20;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 13:41:21;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 13:41:21;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 13:41:21;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 13:41:21;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:41:21;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:41:21;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 13:42:54;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 13:43:06;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 13:43:07;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 13:43:07;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 13:43:07;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 13:43:07;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 13:43:07;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:43:07;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:43:07;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 13:46:04;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 13:46:15;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 13:46:15;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 13:46:15;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 13:46:15;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 13:46:15;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 13:46:15;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:46:15;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 13:46:15;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 16:13:46;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 16:13:51;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 16:14:04;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 16:14:04;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 16:14:05;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 16:14:05;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 16:14:05;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 16:14:05;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:14:05;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:14:05;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 16:14:10;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 16:14:37;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 16:14:37;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 16:14:37;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 16:14:37;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 16:14:37;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 16:14:37;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:14:37;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:14:37;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 16:15:12;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 16:15:19;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 16:15:19;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 16:15:19;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 16:15:19;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 16:15:19;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 16:15:19;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:15:19;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:15:19;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 16:15:24;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 16:17:45;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 16:18:16;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 16:18:16;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 16:18:16;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 16:18:16;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 16:18:16;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 16:18:16;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:18:16;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:18:16;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 16:18:25;ERROR;Main.pix;Error OpenQA.Selenium.WebDriverException: An unknown exception was encountered sending an HTTP request to the remote WebDriver server for URL http://localhost:56625/session/cf217d72bbc32456850a661500c72184/url. The exception message was: An error occurred while sending the request.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   --- End of inner exception stack trace ---
+   at Web.Core.Browsers.Selenium.SeleniumBrowser.Navigate(String url, Int32 timeoutMilliseconds)
+   at Activities.Web.LaunchSeleniumBrowser.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 16:19:49;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 16:19:56;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 16:19:56;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 16:19:56;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 16:19:56;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 16:19:56;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 16:19:56;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:19:56;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:19:56;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 16:21:35;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 16:22:12;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 16:22:13;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 16:22:13;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 16:22:13;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 16:22:13;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 16:22:13;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:22:13;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:22:13;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 16:22:17;ERROR;Main.pix;Error OpenQA.Selenium.WebDriverException: unknown error: cannot determine loading status
+from target frame detached: received Inspector.detached event
+  (Session info: chrome=141.0.7390.123)
+   at Web.Core.Browsers.Selenium.SeleniumBrowser.Navigate(String url, Int32 timeoutMilliseconds)
+   at Activities.Web.LaunchSeleniumBrowser.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 16:23:12;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 16:23:19;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 16:23:20;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 16:23:20;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 16:23:20;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 16:23:20;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 16:23:20;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:23:20;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:23:20;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 16:23:24;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 16:26:31;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 16:26:38;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 16:26:38;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 16:26:39;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 16:26:39;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 16:26:39;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 16:26:39;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:26:39;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:26:39;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 16:26:46;ERROR;Main.pix;Error OpenQA.Selenium.WebDriverException: An unknown exception was encountered sending an HTTP request to the remote WebDriver server for URL http://localhost:49740/session/abe52d469857334c969006af3ce6b709/url. The exception message was: An error occurred while sending the request.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   --- End of inner exception stack trace ---
+   at Web.Core.Browsers.Selenium.SeleniumBrowser.Navigate(String url, Int32 timeoutMilliseconds)
+   at Activities.Web.LaunchSeleniumBrowser.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 16:50:46;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 16:51:03;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 16:51:03;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 16:51:03;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 16:51:03;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 16:51:03;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 16:51:03;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:51:03;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:51:03;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 16:51:08;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 16:51:15;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\reportes_2025-10-30.xlsx
+2025-10-30 16:51:24;INFO;SendReport.pix;Reporte enviado con exito
+2025-10-30 16:51:45;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 16:51:46;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 16:51:47;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 16:51:49;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 16:52:13;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 16:52:14;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 16:52:14;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 16:52:14;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 16:52:14;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 16:52:14;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:52:14;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:52:14;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 16:52:38;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 16:52:38;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 16:52:38;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 16:52:38;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 16:52:38;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 16:52:38;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:52:38;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 16:52:38;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 16:52:50;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 16:55:24;ERROR;Main.pix;Error System.Exception: ERROR
+   at BR.Core.Base.ThrowException.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 16:55:32;ERROR;Main.pix;Error System.Exception: ERROR
+   at BR.Core.Base.ThrowException.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 17:17:15;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 18:03:00;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 18:03:03;ERROR;Main.pix;Error System.Exception: ERROR
+   at BR.Core.Base.ThrowException.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 18:03:03;ERROR;Main.pix;Error System.Exception: ERROR
+   at BR.Core.Base.ThrowException.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 18:03:08;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 18:03:11;ERROR;Main.pix;Error System.Exception: ERROR
+   at BR.Core.Base.ThrowException.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 18:07:17;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 18:07:23;ERROR;Main.pix;Error System.Exception: ERROR
+   at BR.Core.Base.ThrowException.Execute(Nullable`1 optionID)
+   at BR.Engine.Runtimer.<>c__DisplayClass79_0.<ExecuteActivity>b__0()
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 18:19:41;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 18:19:44;ERROR;Main.pix;Error System.Exception: ERROR
+   at BR.Core.Base.ThrowException.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 18:20:04;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 18:20:07;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 18:20:07;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 18:20:07;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 18:20:07;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 18:20:07;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 18:20:07;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 18:20:07;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 18:20:07;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 18:20:13;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 18:20:18;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\reportes_2025-10-30.xlsx
+2025-10-30 18:20:29;INFO;SendReport.pix;Reporte enviado con exito
+2025-10-30 18:20:34;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-30.xlsx ruta en proceso 
+2025-10-30 18:20:34;DEBUG;UploadOnedrive.pix;3 Cantidad items en ruta 
+2025-10-30 18:20:34;DEBUG;UploadOnedrive.pix;1 Contador 
+2025-10-30 18:20:34;DEBUG;UploadOnedrive.pix;RPA item en proceso 
+2025-10-30 18:20:34;DEBUG;UploadOnedrive.pix;RPA Path concatenado 
+2025-10-30 18:20:34;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA 
+2025-10-30 18:20:35;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:22:43Z","eTag":"\"{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},2\"","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:22:43Z","name":"RPA","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX56Y2GOVW7725BZO354PWSELRRZ","name":"Documents","path":"/drive/root:","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA","cTag":"\"c:{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:22:43Z","lastModifiedDateTime":"2025-10-30T03:22:43Z"},"folder":{"childCount":2},"size":30331}
+2025-10-30 18:20:35;DEBUG;UploadOnedrive.pix;2 Contador 
+2025-10-30 18:20:35;DEBUG;UploadOnedrive.pix;Reportes item en proceso 
+2025-10-30 18:20:35;DEBUG;UploadOnedrive.pix;RPA/Reportes Path concatenado 
+2025-10-30 18:20:35;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes 
+2025-10-30 18:20:36;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:31:26Z","eTag":"\"{C728FF1F-C44D-4164-9337-39BD152D28ED},2\"","id":"01J4OVHXY774UMOTOEMRAZGNZZXUKS2KHN","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:31:26Z","name":"Reportes","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","name":"RPA","path":"/drive/root:/RPA","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA/Reportes","cTag":"\"c:{C728FF1F-C44D-4164-9337-39BD152D28ED},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:31:26Z","lastModifiedDateTime":"2025-10-30T03:31:26Z"},"folder":{"childCount":2},"size":19688}
+2025-10-30 18:20:36;DEBUG;UploadOnedrive.pix;3 Contador 
+2025-10-30 18:20:36;DEBUG;UploadOnedrive.pix;Reporte_2025-10-30.xlsx item en proceso 
+2025-10-30 18:20:36;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-30.xlsx Path concatenado 
+2025-10-30 18:20:36;INFO;UploadOnedrive.pix;Extension del archivo .xlsx 
+2025-10-30 18:20:36;INFO;UploadOnedrive.pix;Nombre de archivo a subir Reporte_2025-10-30.xlsx 
+2025-10-30 18:20:36;DEBUG;UploadOnedrive.pix;Endpoint para subir archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes/Reporte_2025-10-30.xlsx:/content 
+2025-10-30 18:20:36;DEBUG;UploadOnedrive.pix; Subir archivo ruta completa RPA/Reportes/Reporte_2025-10-30.xlsx2025-10-30 18:20:36;INFO;upload_onedrive.pix;Actividad iniciada con exito
+2025-10-30 18:20:39;ERROR;Main.pix;Error System.Exception
+   at BR.Core.Base.ThrowException.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 18:20:46;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 18:20:57;ERROR;Main.pix;Error System.Exception: ERROR
+   at BR.Core.Base.ThrowException.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 18:21:00;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 18:25:08;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 18:25:12;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 18:25:12;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 18:25:12;INFO;ExcelReport.pix;Archivo a guardar RPA\Reportes\reportes_2025-10-30.xlsx 
+2025-10-30 18:25:12;DEBUG;ExcelReport.pix; Total 20 
+2025-10-30 18:25:12;DEBUG;ExcelReport.pix; Promedio 162.046000 
+2025-10-30 18:25:12;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 18:25:12;DEBUG;ExcelReport.pix; AVG men's clothing 
+2025-10-30 18:25:12;INFO;ExcelReport.pix;Excel guardado con exito 
+2025-10-30 18:25:15;DEBUG;Fecha de envio 10/30/2025 
+2025-10-30 18:25:20;INFO;SendReport.pix;Se sube archivo C:\Users\Oscar Felipe\AppData\Local\PIX\Projects\prueba_tecnica_final\reportes_2025-10-30.xlsx
+2025-10-30 18:25:32;INFO;SendReport.pix;Reporte enviado con exito
+2025-10-30 18:25:39;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-30.xlsx ruta en proceso 
+2025-10-30 18:25:39;DEBUG;UploadOnedrive.pix;3 Cantidad items en ruta 
+2025-10-30 18:25:39;DEBUG;UploadOnedrive.pix;1 Contador 
+2025-10-30 18:25:39;DEBUG;UploadOnedrive.pix;RPA item en proceso 
+2025-10-30 18:25:39;DEBUG;UploadOnedrive.pix;RPA Path concatenado 
+2025-10-30 18:25:39;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA 
+2025-10-30 18:25:39;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:22:43Z","eTag":"\"{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},2\"","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:22:43Z","name":"RPA","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX56Y2GOVW7725BZO354PWSELRRZ","name":"Documents","path":"/drive/root:","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA","cTag":"\"c:{6FDE0C67-79DE-4DEC-AC34-D1CF6B691D61},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:22:43Z","lastModifiedDateTime":"2025-10-30T03:22:43Z"},"folder":{"childCount":2},"size":30474}
+2025-10-30 18:25:39;DEBUG;UploadOnedrive.pix;2 Contador 
+2025-10-30 18:25:39;DEBUG;UploadOnedrive.pix;Reportes item en proceso 
+2025-10-30 18:25:39;DEBUG;UploadOnedrive.pix;RPA/Reportes Path concatenado 
+2025-10-30 18:25:39;DEBUG;UploadOnedrive.pix;Endpoint para consultar carpeta archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes 
+2025-10-30 18:25:40;DEBUG;UploadOnedrive.pix;Se revisa si existe carpeta RPA con resultado {"@odata.context":"https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)/$entity","createdBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"createdDateTime":"2025-10-30T03:31:26Z","eTag":"\"{C728FF1F-C44D-4164-9337-39BD152D28ED},2\"","id":"01J4OVHXY774UMOTOEMRAZGNZZXUKS2KHN","lastModifiedBy":{"application":{"id":"a90be2fa-0c89-4197-8f6d-8908635d1792","displayName":"Microsoft Graph"},"user":{"email":"OscarCastano@Pixpruebas.onmicrosoft.com","id":"1d0615e9-029f-450c-aafe-fd3cbd95b734","displayName":"Oscar Casta\u00f1o"}},"lastModifiedDateTime":"2025-10-30T03:31:26Z","name":"Reportes","parentReference":{"driveType":"business","driveId":"b!VbQPBBBim02JS7M0dqTCcnXGFmr9k_hCstKcRtqFI2gBGyvdOyVQQrZpvprWDCuI","id":"01J4OVHX3HBTPG7XTZ5RG2YNGRZ5VWSHLB","name":"RPA","path":"/drive/root:/RPA","siteId":"040fb455-6210-4d9b-894b-b33476a4c272"},"webUrl":"https://pixpruebas-my.sharepoint.com/personal/oscarcastano_pixpruebas_onmicrosoft_com/Documents/RPA/Reportes","cTag":"\"c:{C728FF1F-C44D-4164-9337-39BD152D28ED},0\"","fileSystemInfo":{"createdDateTime":"2025-10-30T03:31:26Z","lastModifiedDateTime":"2025-10-30T03:31:26Z"},"folder":{"childCount":2},"size":19831}
+2025-10-30 18:25:40;DEBUG;UploadOnedrive.pix;3 Contador 
+2025-10-30 18:25:40;DEBUG;UploadOnedrive.pix;Reporte_2025-10-30.xlsx item en proceso 
+2025-10-30 18:25:40;DEBUG;UploadOnedrive.pix;RPA/Reportes/Reporte_2025-10-30.xlsx Path concatenado 
+2025-10-30 18:25:40;INFO;UploadOnedrive.pix;Extension del archivo .xlsx 
+2025-10-30 18:25:40;INFO;UploadOnedrive.pix;Nombre de archivo a subir Reporte_2025-10-30.xlsx 
+2025-10-30 18:25:40;DEBUG;UploadOnedrive.pix;Endpoint para subir archivo https://graph.microsoft.com/v1.0/me/drive/root:/RPA/Reportes/Reporte_2025-10-30.xlsx:/content 
+2025-10-30 18:25:40;DEBUG;UploadOnedrive.pix; Subir archivo ruta completa RPA/Reportes/Reporte_2025-10-30.xlsx2025-10-30 18:25:40;INFO;upload_onedrive.pix;Actividad iniciada con exito
+2025-10-30 18:25:42;ERROR;Main.pix;Error System.Exception
+   at BR.Core.Base.ThrowException.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 18:30:16;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 18:30:19;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 18:30:19;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 18:30:19;ERROR;Main.pix;Error System.Exception: sdfsdfsdf
+   at BR.Core.Base.ThrowException.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 18:30:53;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 18:30:56;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 18:30:56;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 18:30:56;ERROR;Main.pix;Error System.Exception: sdfsdfsdf
+   at BR.Core.Base.ThrowException.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 18:34:08;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 18:34:12;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 18:34:12;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 18:34:12;ERROR;Main.pix;Error System.Exception: sdfsdfsdf
+   at BR.Core.Base.ThrowException.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)2025-10-30 18:45:20;INFO;UploadOnedrive.pix;Archivo subido con exito
+2025-10-30 18:45:33;INFO;GetProducts.pix;Archivo json guardado exitosamente 
+2025-10-30 18:45:33;INFO;InsertBD.pix;Informacion subida a la bd exitosamente2025-10-30 18:45:33;ERROR;Main.pix;Error System.Exception: sdfsdfsdf
+   at BR.Core.Base.ThrowException.Execute(Nullable`1 optionID)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at BR.Engine.Runtimer.ExecuteActivity(Activity currentActivity, Nullable`1 selectedOption)
+   at BR.Engine.Runtimer.ExecuteActivityFromStepAsync(ExecutableStep step)
