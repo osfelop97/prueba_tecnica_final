@@ -62,10 +62,11 @@ Piix Studio es una plataforma de desarrollo **low-code** que permite diseñar ro
 https://forms.gle/mDLe5TF4UEFamTiY7
    
 ## Captura del envio de formulario
-La captura se encuentra en ScreenShots
+La captura se encuentra en Evidencias
 
 ## Reporte 
-El reporte se encuentra en la carpeta Output
+El reporte se encuentra en la carpeta RPA/Reportes
+El reporte se encuentra en la carpeta RPA/Logs
 
 ## Notas
 El script de las tablas se llama script_tablas.sql
