@@ -107,7 +107,181 @@
       <AbstractStep z:Id="i13" i:type="ExecutedStep">
         <Childs>
           <AbstractStep z:Id="i14" i:type="ExecutedStep">
-            <Childs />
+            <Childs>
+              <AbstractStep z:Id="i15" i:type="ExecutedStep">
+                <Childs />
+                <Id>45dbb2bd-ffa6-4335-83ef-ba39c8a09965</Id>
+                <Parent z:Ref="i14" />
+                <PropertyValues>
+                  <PropertyValue z:Id="i16">
+                    <PropertyName>QueueName</PropertyName>
+                    <_dataType>Expression</_dataType>
+                    <_expression>Config["QueueName"].ToString()</_expression>
+                    <_screenShotBase64 i:nil="true" />
+                    <_value i:nil="true" />
+                    <_xpathSettings xmlns:d11p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+                  </PropertyValue>
+                  <PropertyValue z:Id="i17">
+                    <PropertyName>Data</PropertyName>
+                    <_dataType>Expression</_dataType>
+                    <_expression>Config["URLEndpoint"].ToString()</_expression>
+                    <_screenShotBase64 i:nil="true" />
+                    <_value i:nil="true" />
+                    <_xpathSettings xmlns:d11p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+                  </PropertyValue>
+                  <PropertyValue z:Id="i18">
+                    <PropertyName>Priority</PropertyName>
+                    <_dataType>Value</_dataType>
+                    <_expression i:nil="true" />
+                    <_screenShotBase64 i:nil="true" />
+                    <_value xmlns:d11p1="http://schemas.datacontract.org/2004/07/Activities.Queues.Enums" i:type="d11p1:QueueItemPriority">High</_value>
+                    <_xpathSettings xmlns:d11p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+                  </PropertyValue>
+                  <PropertyValue z:Id="i19">
+                    <PropertyName>DeadlineDate</PropertyName>
+                    <_dataType>Value</_dataType>
+                    <_expression i:nil="true" />
+                    <_screenShotBase64 i:nil="true" />
+                    <_value xmlns:d11p1="http://www.w3.org/2001/XMLSchema" i:type="d11p1:dateTime">2025-11-12T20:05:46</_value>
+                    <_xpathSettings xmlns:d11p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+                  </PropertyValue>
+                  <PropertyValue z:Id="i20">
+                    <PropertyName>ID</PropertyName>
+                    <_dataType>Expression</_dataType>
+                    <_expression>tItemID</_expression>
+                    <_screenShotBase64 i:nil="true" />
+                    <_value i:nil="true" />
+                    <_xpathSettings xmlns:d11p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+                  </PropertyValue>
+                  <PropertyValue z:Id="i21">
+                    <PropertyName>QueueItemData</PropertyName>
+                    <_dataType>Expression</_dataType>
+                    <_expression>tItemValue</_expression>
+                    <_screenShotBase64 i:nil="true" />
+                    <_value i:nil="true" />
+                    <_xpathSettings xmlns:d11p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+                  </PropertyValue>
+                </PropertyValues>
+                <SelectedOptionId>0</SelectedOptionId>
+                <AutoCloseMode>None</AutoCloseMode>
+                <EnableStatus>true</EnableStatus>
+                <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+                <RetryCount>-1</RetryCount>
+                <Text>Subir elemento a cola</Text>
+                <_activityFullName>Activities.Queues.PushElement</_activityFullName>
+              </AbstractStep>
+              <AbstractStep z:Id="i22" i:type="ExecutedStep">
+                <Childs>
+                  <AbstractStep z:Id="i23" i:type="ExecutedStep">
+                    <Childs>
+                      <AbstractStep z:Id="i24" i:type="ExecutedStep">
+                        <Childs />
+                        <Id>782e0078-f71c-40c4-b511-f11b273f50ce</Id>
+                        <Parent z:Ref="i23" />
+                        <PropertyValues>
+                          <PropertyValue z:Id="i25">
+                            <PropertyName>FilePath</PropertyName>
+                            <_dataType>Expression</_dataType>
+                            <_expression>$@"Logs\{DateTime.Now:yyyy-MM-dd}.txt"</_expression>
+                            <_screenShotBase64 i:nil="true" />
+                            <_value i:nil="true" />
+                            <_xpathSettings xmlns:d15p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+                          </PropertyValue>
+                          <PropertyValue z:Id="i26">
+                            <PropertyName>Text</PropertyName>
+                            <_dataType>Expression</_dataType>
+                            <_expression>$"{DateTime.Now:yyyy-MM-dd HH:mm:ss};INFO;UploadOnedrive.pix;Transaccion agregada con exito\n";</_expression>
+                            <_screenShotBase64 i:nil="true" />
+                            <_value i:nil="true" />
+                            <_xpathSettings xmlns:d15p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+                          </PropertyValue>
+                        </PropertyValues>
+                        <SelectedOptionId>1</SelectedOptionId>
+                        <AutoCloseMode>None</AutoCloseMode>
+                        <EnableStatus>true</EnableStatus>
+                        <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+                        <RetryCount>-1</RetryCount>
+                        <Text></Text>
+                        <_activityFullName>Activities.Files.WriteFile</_activityFullName>
+                      </AbstractStep>
+                    </Childs>
+                    <Id>e037a283-50c4-4017-b35a-8a8974da61d4</Id>
+                    <Parent z:Ref="i22" />
+                    <PropertyValues />
+                    <SelectedOptionId i:nil="true" />
+                    <AutoCloseMode>None</AutoCloseMode>
+                    <EnableStatus>true</EnableStatus>
+                    <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+                    <RetryCount>-1</RetryCount>
+                    <Text></Text>
+                    <_activityFullName>BR.Core.Base.IfTrue</_activityFullName>
+                  </AbstractStep>
+                  <AbstractStep z:Id="i27" i:type="ExecutedStep">
+                    <Childs>
+                      <AbstractStep z:Id="i28" i:type="ExecutedStep">
+                        <Childs />
+                        <Id>0d4494e3-f2c8-4f06-8f8a-a39bbc0e44bd</Id>
+                        <Parent z:Ref="i27" />
+                        <PropertyValues>
+                          <PropertyValue z:Id="i29">
+                            <PropertyName>FilePath</PropertyName>
+                            <_dataType>Expression</_dataType>
+                            <_expression>$@"Logs\{DateTime.Now:yyyy-MM-dd}.txt"</_expression>
+                            <_screenShotBase64 i:nil="true" />
+                            <_value i:nil="true" />
+                            <_xpathSettings xmlns:d15p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+                          </PropertyValue>
+                          <PropertyValue z:Id="i30">
+                            <PropertyName>Text</PropertyName>
+                            <_dataType>Expression</_dataType>
+                            <_expression>$"{DateTime.Now:yyyy-MM-dd HH:mm:ss};INFO;UploadOnedrive.pix;Transaccion agregada sin exito\n";</_expression>
+                            <_screenShotBase64 i:nil="true" />
+                            <_value i:nil="true" />
+                            <_xpathSettings xmlns:d15p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+                          </PropertyValue>
+                        </PropertyValues>
+                        <SelectedOptionId>1</SelectedOptionId>
+                        <AutoCloseMode>None</AutoCloseMode>
+                        <EnableStatus>true</EnableStatus>
+                        <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+                        <RetryCount>-1</RetryCount>
+                        <Text></Text>
+                        <_activityFullName>Activities.Files.WriteFile</_activityFullName>
+                      </AbstractStep>
+                    </Childs>
+                    <Id>35ac5f91-5e0e-4356-90bb-72f7b9c0cedc</Id>
+                    <Parent z:Ref="i22" />
+                    <PropertyValues />
+                    <SelectedOptionId i:nil="true" />
+                    <AutoCloseMode>None</AutoCloseMode>
+                    <EnableStatus>true</EnableStatus>
+                    <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+                    <RetryCount>-1</RetryCount>
+                    <Text></Text>
+                    <_activityFullName>BR.Core.Base.IfFalse</_activityFullName>
+                  </AbstractStep>
+                </Childs>
+                <Id>fc3ed1a7-2d42-4910-96db-6e03c0daa189</Id>
+                <Parent z:Ref="i14" />
+                <PropertyValues>
+                  <PropertyValue z:Id="i31">
+                    <PropertyName>Condition</PropertyName>
+                    <_dataType>Expression</_dataType>
+                    <_expression>!(tItemID is null)</_expression>
+                    <_screenShotBase64 i:nil="true" />
+                    <_value i:nil="true" />
+                    <_xpathSettings xmlns:d11p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+                  </PropertyValue>
+                </PropertyValues>
+                <SelectedOptionId i:nil="true" />
+                <AutoCloseMode>None</AutoCloseMode>
+                <EnableStatus>true</EnableStatus>
+                <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+                <RetryCount>-1</RetryCount>
+                <Text>Item subido con exito</Text>
+                <_activityFullName>BR.Core.Base.If</_activityFullName>
+              </AbstractStep>
+            </Childs>
             <Id>e64ed845-d2b1-477b-ac14-9037783f98a6</Id>
             <Parent z:Ref="i13" />
             <PropertyValues />
@@ -119,14 +293,14 @@
             <Text></Text>
             <_activityFullName>BR.Core.Base.IfTrue</_activityFullName>
           </AbstractStep>
-          <AbstractStep z:Id="i15" i:type="ExecutedStep">
+          <AbstractStep z:Id="i32" i:type="ExecutedStep">
             <Childs>
-              <AbstractStep z:Id="i16" i:type="ExecutedStep">
+              <AbstractStep z:Id="i33" i:type="ExecutedStep">
                 <Childs />
                 <Id>02b0e8a8-17ff-417e-952b-3ece01af70fd</Id>
-                <Parent z:Ref="i15" />
+                <Parent z:Ref="i32" />
                 <PropertyValues>
-                  <PropertyValue z:Id="i17">
+                  <PropertyValue z:Id="i34">
                     <PropertyName>Dictionary</PropertyName>
                     <_dataType>Expression</_dataType>
                     <_expression>TransactionItem</_expression>
@@ -143,12 +317,12 @@
                 <Text></Text>
                 <_activityFullName>Activities.BaseCollections.Dictionary.CreateDictionary</_activityFullName>
               </AbstractStep>
-              <AbstractStep z:Id="i18" i:type="ExecutedStep">
+              <AbstractStep z:Id="i35" i:type="ExecutedStep">
                 <Childs />
                 <Id>ddf167dd-14db-4442-b254-4396d4709dbf</Id>
-                <Parent z:Ref="i15" />
+                <Parent z:Ref="i32" />
                 <PropertyValues>
-                  <PropertyValue z:Id="i19">
+                  <PropertyValue z:Id="i36">
                     <PropertyName>Key</PropertyName>
                     <_dataType>Expression</_dataType>
                     <_expression>"ID"</_expression>
@@ -156,7 +330,7 @@
                     <_value i:nil="true" />
                     <_xpathSettings xmlns:d11p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
                   </PropertyValue>
-                  <PropertyValue z:Id="i20">
+                  <PropertyValue z:Id="i37">
                     <PropertyName>Value</PropertyName>
                     <_dataType>Expression</_dataType>
                     <_expression>tItemID</_expression>
@@ -164,7 +338,7 @@
                     <_value i:nil="true" />
                     <_xpathSettings xmlns:d11p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
                   </PropertyValue>
-                  <PropertyValue z:Id="i21">
+                  <PropertyValue z:Id="i38">
                     <PropertyName>Dictionary</PropertyName>
                     <_dataType>Expression</_dataType>
                     <_expression>TransactionItem</_expression>
@@ -181,12 +355,12 @@
                 <Text></Text>
                 <_activityFullName>Activities.BaseCollections.Dictionary.AddKey</_activityFullName>
               </AbstractStep>
-              <AbstractStep z:Id="i22" i:type="ExecutedStep">
+              <AbstractStep z:Id="i39" i:type="ExecutedStep">
                 <Childs />
                 <Id>52339354-db8f-4f19-953c-95454974b1bb</Id>
-                <Parent z:Ref="i15" />
+                <Parent z:Ref="i32" />
                 <PropertyValues>
-                  <PropertyValue z:Id="i23">
+                  <PropertyValue z:Id="i40">
                     <PropertyName>Key</PropertyName>
                     <_dataType>Expression</_dataType>
                     <_expression>"Value."</_expression>
@@ -194,7 +368,7 @@
                     <_value i:nil="true" />
                     <_xpathSettings xmlns:d11p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
                   </PropertyValue>
-                  <PropertyValue z:Id="i24">
+                  <PropertyValue z:Id="i41">
                     <PropertyName>Value</PropertyName>
                     <_dataType>Expression</_dataType>
                     <_expression>tItemValue</_expression>
@@ -202,7 +376,7 @@
                     <_value i:nil="true" />
                     <_xpathSettings xmlns:d11p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
                   </PropertyValue>
-                  <PropertyValue z:Id="i25">
+                  <PropertyValue z:Id="i42">
                     <PropertyName>Dictionary</PropertyName>
                     <_dataType>Expression</_dataType>
                     <_expression>TransactionItem</_expression>
@@ -235,7 +409,7 @@
         <Id>4c967943-d4d1-4c97-95ff-a8f7cf0d7f8b</Id>
         <Parent z:Ref="i2" />
         <PropertyValues>
-          <PropertyValue z:Id="i26">
+          <PropertyValue z:Id="i43">
             <PropertyName>Condition</PropertyName>
             <_dataType>Expression</_dataType>
             <_expression>tItemID is null</_expression>
@@ -249,15 +423,15 @@
         <EnableStatus>true</EnableStatus>
         <ExceptionHandlingMode>Default</ExceptionHandlingMode>
         <RetryCount>-1</RetryCount>
-        <Text></Text>
+        <Text>Si no hay elementos en Cola</Text>
         <_activityFullName>BR.Core.Base.If</_activityFullName>
       </AbstractStep>
-      <AbstractStep z:Id="i27" i:type="ExecutedStep">
+      <AbstractStep z:Id="i44" i:type="ExecutedStep">
         <Childs />
         <Id>1b916429-caeb-4c2f-a54f-4e39a40fe011</Id>
         <Parent z:Ref="i2" />
         <PropertyValues>
-          <PropertyValue z:Id="i28">
+          <PropertyValue z:Id="i45">
             <PropertyName>Text</PropertyName>
             <_dataType>Expression</_dataType>
             <_expression>"End of data definition to work."</_expression>
@@ -289,21 +463,21 @@
   <Name>GetTransactionItem.pix</Name>
   <Namespaces xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <Params>
-    <Parameter z:Id="i29">
+    <Parameter z:Id="i46">
       <DefaultValueExpression></DefaultValueExpression>
       <Description>Предполагается использование Config, т.к. в нем могут быть прописаны условия для выборки TI из TD.</Description>
       <Name>Config</Name>
       <RunnerType>None</RunnerType>
       <TypeString>System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]</TypeString>
     </Parameter>
-    <Parameter z:Id="i30">
+    <Parameter z:Id="i47">
       <DefaultValueExpression></DefaultValueExpression>
       <Description></Description>
       <Name>TransactionNumber</Name>
       <RunnerType>None</RunnerType>
       <TypeString>System.Int32</TypeString>
     </Parameter>
-    <Parameter z:Id="i31">
+    <Parameter z:Id="i48">
       <DefaultValueExpression></DefaultValueExpression>
       <Description></Description>
       <Name>TransactionItem</Name>

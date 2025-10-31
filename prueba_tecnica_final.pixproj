@@ -61,21 +61,17 @@
     </ProjectFileItem>
     <ProjectFileItem z:Id="i16">
       <IsMain>false</IsMain>
-      <Path>UploadTransactionItem.pix</Path>
+      <Path>Process_scripts\GetProducts.pix</Path>
     </ProjectFileItem>
     <ProjectFileItem z:Id="i17">
       <IsMain>false</IsMain>
-      <Path>Process_scripts\GetProducts.pix</Path>
+      <Path>Scripts\upload_file.py</Path>
     </ProjectFileItem>
     <ProjectFileItem z:Id="i18">
       <IsMain>false</IsMain>
-      <Path>Scripts\upload_file.py</Path>
-    </ProjectFileItem>
-    <ProjectFileItem z:Id="i19">
-      <IsMain>false</IsMain>
       <Path>script_tablas.sql</Path>
     </ProjectFileItem>
-    <ProjectFileItem z:Id="i20">
+    <ProjectFileItem z:Id="i19">
       <IsMain>false</IsMain>
       <Path>.gitignore</Path>
     </ProjectFileItem>
