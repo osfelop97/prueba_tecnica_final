@@ -1371,6 +1371,109 @@ $"--client-secret \"{Config["ClientSecret"]}\" " +
                         <Text>Log Respuesta carpeta</Text>
                         <_activityFullName>Activities.Files.WriteFile</_activityFullName>
                       </AbstractStep>
+                      <AbstractStep z:Id="i144" i:type="ExecutedStep">
+                        <Childs>
+                          <AbstractStep z:Id="i145" i:type="ExecutedStep">
+                            <Childs>
+                              <AbstractStep z:Id="i146" i:type="ExecutedStep">
+                                <Childs />
+                                <Id>9e33c603-757b-443c-914f-d825b9d8b00a</Id>
+                                <Parent z:Ref="i145" />
+                                <PropertyValues>
+                                  <PropertyValue z:Id="i147">
+                                    <PropertyName>Text</PropertyName>
+                                    <_dataType>Expression</_dataType>
+                                    <_expression>$"Error al ejecutar script en Python con detalles: {string.Join(Environment.NewLine, lst_exception.Select(pso =&gt; pso.ToString()))}";</_expression>
+                                    <_screenShotBase64 i:nil="true" />
+                                    <_value i:nil="true" />
+                                    <_xpathSettings xmlns:d19p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+                                  </PropertyValue>
+                                </PropertyValues>
+                                <SelectedOptionId>0</SelectedOptionId>
+                                <AutoCloseMode>None</AutoCloseMode>
+                                <EnableStatus>true</EnableStatus>
+                                <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+                                <RetryCount>-1</RetryCount>
+                                <Text>Error a ejecutar python</Text>
+                                <_activityFullName>BR.Core.Base.ThrowException</_activityFullName>
+                              </AbstractStep>
+                            </Childs>
+                            <Id>d1286761-c74b-41b6-a558-6aae2fb29c8d</Id>
+                            <Parent z:Ref="i144" />
+                            <PropertyValues />
+                            <SelectedOptionId i:nil="true" />
+                            <AutoCloseMode>None</AutoCloseMode>
+                            <EnableStatus>true</EnableStatus>
+                            <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+                            <RetryCount>-1</RetryCount>
+                            <Text></Text>
+                            <_activityFullName>BR.Core.Base.IfTrue</_activityFullName>
+                          </AbstractStep>
+                          <AbstractStep z:Id="i148" i:type="ExecutedStep">
+                            <Childs>
+                              <AbstractStep z:Id="i149" i:type="ExecutedStep">
+                                <Childs />
+                                <Id>542f83cb-aca2-4ea2-96ea-46391c9e88f7</Id>
+                                <Parent z:Ref="i148" />
+                                <PropertyValues>
+                                  <PropertyValue z:Id="i150">
+                                    <PropertyName>FilePath</PropertyName>
+                                    <_dataType>Expression</_dataType>
+                                    <_expression>$@"Logs\{DateTime.Now:yyyy-MM-dd}.txt"</_expression>
+                                    <_screenShotBase64 i:nil="true" />
+                                    <_value i:nil="true" />
+                                    <_xpathSettings xmlns:d19p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+                                  </PropertyValue>
+                                  <PropertyValue z:Id="i151">
+                                    <PropertyName>Text</PropertyName>
+                                    <_dataType>Expression</_dataType>
+                                    <_expression>$"{DateTime.Now:yyyy-MM-dd HH:mm:ss};DEBUG;UploadOnedrive.pix;Creacion exitosa de carpeta\n";</_expression>
+                                    <_screenShotBase64 i:nil="true" />
+                                    <_value i:nil="true" />
+                                    <_xpathSettings xmlns:d19p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+                                  </PropertyValue>
+                                </PropertyValues>
+                                <SelectedOptionId>1</SelectedOptionId>
+                                <AutoCloseMode>None</AutoCloseMode>
+                                <EnableStatus>true</EnableStatus>
+                                <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+                                <RetryCount>-1</RetryCount>
+                                <Text>Log Respuesta carpeta</Text>
+                                <_activityFullName>Activities.Files.WriteFile</_activityFullName>
+                              </AbstractStep>
+                            </Childs>
+                            <Id>4b6f5c8d-4916-42d1-8341-73d95ee760c0</Id>
+                            <Parent z:Ref="i144" />
+                            <PropertyValues />
+                            <SelectedOptionId i:nil="true" />
+                            <AutoCloseMode>None</AutoCloseMode>
+                            <EnableStatus>true</EnableStatus>
+                            <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+                            <RetryCount>-1</RetryCount>
+                            <Text></Text>
+                            <_activityFullName>BR.Core.Base.IfFalse</_activityFullName>
+                          </AbstractStep>
+                        </Childs>
+                        <Id>c287dc88-7728-459c-b815-64ecc01bde7f</Id>
+                        <Parent z:Ref="i124" />
+                        <PropertyValues>
+                          <PropertyValue z:Id="i152">
+                            <PropertyName>Condition</PropertyName>
+                            <_dataType>Expression</_dataType>
+                            <_expression>Content.Contains("error")</_expression>
+                            <_screenShotBase64 i:nil="true" />
+                            <_value i:nil="true" />
+                            <_xpathSettings xmlns:d15p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+                          </PropertyValue>
+                        </PropertyValues>
+                        <SelectedOptionId i:nil="true" />
+                        <AutoCloseMode>None</AutoCloseMode>
+                        <EnableStatus>true</EnableStatus>
+                        <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+                        <RetryCount>-1</RetryCount>
+                        <Text>Creacion erronea de carpeta</Text>
+                        <_activityFullName>BR.Core.Base.If</_activityFullName>
+                      </AbstractStep>
                     </Childs>
                     <Id>169590db-354d-42ea-a2bb-a6f0e322992e</Id>
                     <Parent z:Ref="i123" />
@@ -1383,7 +1486,7 @@ $"--client-secret \"{Config["ClientSecret"]}\" " +
                     <Text></Text>
                     <_activityFullName>BR.Core.Base.IfTrue</_activityFullName>
                   </AbstractStep>
-                  <AbstractStep z:Id="i144" i:type="ExecutedStep">
+                  <AbstractStep z:Id="i153" i:type="ExecutedStep">
                     <Childs />
                     <Id>85ca1e54-1e80-469e-a960-9de8169bbd02</Id>
                     <Parent z:Ref="i123" />
@@ -1400,7 +1503,7 @@ $"--client-secret \"{Config["ClientSecret"]}\" " +
                 <Id>187caed9-1af1-4460-9aa7-6af0722bb905</Id>
                 <Parent z:Ref="i52" />
                 <PropertyValues>
-                  <PropertyValue z:Id="i145">
+                  <PropertyValue z:Id="i154">
                     <PropertyName>Condition</PropertyName>
                     <_dataType>Expression</_dataType>
                     <_expression>Content.Contains("error")</_expression>
@@ -1417,12 +1520,12 @@ $"--client-secret \"{Config["ClientSecret"]}\" " +
                 <Text>Carpeta existe</Text>
                 <_activityFullName>BR.Core.Base.If</_activityFullName>
               </AbstractStep>
-              <AbstractStep z:Id="i146" i:type="ExecutedStep">
+              <AbstractStep z:Id="i155" i:type="ExecutedStep">
                 <Childs />
                 <Id>f27eaf09-2f19-41d2-976d-26af43bda542</Id>
                 <Parent z:Ref="i52" />
                 <PropertyValues>
-                  <PropertyValue z:Id="i147">
+                  <PropertyValue z:Id="i156">
                     <PropertyName>Value</PropertyName>
                     <_dataType>Expression</_dataType>
                     <_expression>PathItemS</_expression>
@@ -1430,7 +1533,7 @@ $"--client-secret \"{Config["ClientSecret"]}\" " +
                     <_value i:nil="true" />
                     <_xpathSettings xmlns:d11p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
                   </PropertyValue>
-                  <PropertyValue z:Id="i148">
+                  <PropertyValue z:Id="i157">
                     <PropertyName>To</PropertyName>
                     <_dataType>Expression</_dataType>
                     <_expression>BefItem</_expression>
@@ -1451,7 +1554,7 @@ $"--client-secret \"{Config["ClientSecret"]}\" " +
             <Id>2b114ae4-a143-4247-8b60-b94c8aa68792</Id>
             <Parent z:Ref="i36" />
             <PropertyValues>
-              <PropertyValue z:Id="i149">
+              <PropertyValue z:Id="i158">
                 <PropertyName>Collection</PropertyName>
                 <_dataType>Expression</_dataType>
                 <_expression>SplitPath</_expression>
@@ -1459,7 +1562,7 @@ $"--client-secret \"{Config["ClientSecret"]}\" " +
                 <_value i:nil="true" />
                 <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
               </PropertyValue>
-              <PropertyValue z:Id="i150">
+              <PropertyValue z:Id="i159">
                 <PropertyName>Iterator</PropertyName>
                 <_dataType>Expression</_dataType>
                 <_expression>PathItem</_expression>
@@ -1467,7 +1570,7 @@ $"--client-secret \"{Config["ClientSecret"]}\" " +
                 <_value i:nil="true" />
                 <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
               </PropertyValue>
-              <PropertyValue z:Id="i151">
+              <PropertyValue z:Id="i160">
                 <PropertyName>Counter</PropertyName>
                 <_dataType>Expression</_dataType>
                 <_expression>CounterL</_expression>
@@ -1488,7 +1591,7 @@ $"--client-secret \"{Config["ClientSecret"]}\" " +
         <Id>a212e4e8-d80f-4bc6-b18e-7e03cb638499</Id>
         <Parent z:Ref="i2" />
         <PropertyValues>
-          <PropertyValue z:Id="i152">
+          <PropertyValue z:Id="i161">
             <PropertyName>Collection</PropertyName>
             <_dataType>Expression</_dataType>
             <_expression>Paths</_expression>
@@ -1496,7 +1599,7 @@ $"--client-secret \"{Config["ClientSecret"]}\" " +
             <_value i:nil="true" />
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
           </PropertyValue>
-          <PropertyValue z:Id="i153">
+          <PropertyValue z:Id="i162">
             <PropertyName>Iterator</PropertyName>
             <_dataType>Expression</_dataType>
             <_expression>Pathv</_expression>
@@ -1504,7 +1607,7 @@ $"--client-secret \"{Config["ClientSecret"]}\" " +
             <_value i:nil="true" />
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
           </PropertyValue>
-          <PropertyValue z:Id="i154">
+          <PropertyValue z:Id="i163">
             <PropertyName>Counter</PropertyName>
             <_dataType>Expression</_dataType>
             <_expression></_expression>
@@ -1536,7 +1639,7 @@ $"--client-secret \"{Config["ClientSecret"]}\" " +
   <Name>UploadOnedrive.pix</Name>
   <Namespaces xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <Params>
-    <Parameter z:Id="i155">
+    <Parameter z:Id="i164">
       <DefaultValueExpression></DefaultValueExpression>
       <Description></Description>
       <Name>Config</Name>
@@ -1552,43 +1655,43 @@ $"--client-secret \"{Config["ClientSecret"]}\" " +
   </PlatformVersion>
   <TemplateVersion xmlns:d2p1="http://schemas.datacontract.org/2004/07/System" i:nil="true" />
   <Variables xmlns:d2p1="http://schemas.datacontract.org/2004/07/BR.Logic.Params">
-    <d2p1:Variable z:Id="i156">
+    <d2p1:Variable z:Id="i165">
       <d2p1:DefaultValueExpression></d2p1:DefaultValueExpression>
       <d2p1:Description></d2p1:Description>
       <d2p1:Name>PathItemf</d2p1:Name>
       <d2p1:TypeString>System.String</d2p1:TypeString>
     </d2p1:Variable>
-    <d2p1:Variable z:Id="i157">
+    <d2p1:Variable z:Id="i166">
       <d2p1:DefaultValueExpression></d2p1:DefaultValueExpression>
       <d2p1:Description></d2p1:Description>
       <d2p1:Name>QuantityItems</d2p1:Name>
       <d2p1:TypeString>System.Int32</d2p1:TypeString>
     </d2p1:Variable>
-    <d2p1:Variable z:Id="i158">
+    <d2p1:Variable z:Id="i167">
       <d2p1:DefaultValueExpression></d2p1:DefaultValueExpression>
       <d2p1:Description></d2p1:Description>
       <d2p1:Name>PathItemS</d2p1:Name>
       <d2p1:TypeString>System.String</d2p1:TypeString>
     </d2p1:Variable>
-    <d2p1:Variable z:Id="i159">
+    <d2p1:Variable z:Id="i168">
       <d2p1:DefaultValueExpression></d2p1:DefaultValueExpression>
       <d2p1:Description></d2p1:Description>
       <d2p1:Name>Extension</d2p1:Name>
       <d2p1:TypeString>System.String</d2p1:TypeString>
     </d2p1:Variable>
-    <d2p1:Variable z:Id="i160">
+    <d2p1:Variable z:Id="i169">
       <d2p1:DefaultValueExpression></d2p1:DefaultValueExpression>
       <d2p1:Description></d2p1:Description>
       <d2p1:Name>SplithPath</d2p1:Name>
       <d2p1:TypeString>System.Collections.Generic.List`1[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]</d2p1:TypeString>
     </d2p1:Variable>
-    <d2p1:Variable z:Id="i161">
+    <d2p1:Variable z:Id="i170">
       <d2p1:DefaultValueExpression></d2p1:DefaultValueExpression>
       <d2p1:Description></d2p1:Description>
       <d2p1:Name>CounterL</d2p1:Name>
       <d2p1:TypeString>System.Int32</d2p1:TypeString>
     </d2p1:Variable>
-    <d2p1:Variable z:Id="i162">
+    <d2p1:Variable z:Id="i171">
       <d2p1:DefaultValueExpression></d2p1:DefaultValueExpression>
       <d2p1:Description></d2p1:Description>
       <d2p1:Name>BefItem</d2p1:Name>
