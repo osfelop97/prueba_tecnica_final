@@ -13,7 +13,7 @@
           <PropertyValue z:Id="i4">
             <PropertyName>FilePath</PropertyName>
             <_dataType>Expression</_dataType>
-            <_expression>@$"{Config["JsonPath"]}products.json"</_expression>
+            <_expression>@$"{Config["JsonPath"]}Productos_{DateTime.Now:yyyy-MM-dd}.json"</_expression>
             <_screenShotBase64 i:nil="true" />
             <_value i:nil="true" />
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />

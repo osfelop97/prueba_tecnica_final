@@ -7,48 +7,10 @@
     <Childs>
       <AbstractStep z:Id="i3" i:type="ExecutedStep">
         <Childs />
-        <Id>85fa6a2a-7a63-4464-96a7-940640b2ab2b</Id>
-        <Parent z:Ref="i2" />
-        <PropertyValues>
-          <PropertyValue z:Id="i4">
-            <PropertyName>Url</PropertyName>
-            <_dataType>Expression</_dataType>
-            <_expression>"https://fakestoreapi.com/products"</_expression>
-            <_screenShotBase64 i:nil="true" />
-            <_value i:nil="true" />
-            <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
-          </PropertyValue>
-          <PropertyValue z:Id="i5">
-            <PropertyName>ContentResult</PropertyName>
-            <_dataType>Expression</_dataType>
-            <_expression>ContentProducts</_expression>
-            <_screenShotBase64 i:nil="true" />
-            <_value i:nil="true" />
-            <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
-          </PropertyValue>
-          <PropertyValue z:Id="i6">
-            <PropertyName>Status</PropertyName>
-            <_dataType>Expression</_dataType>
-            <_expression>Status</_expression>
-            <_screenShotBase64 i:nil="true" />
-            <_value i:nil="true" />
-            <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
-          </PropertyValue>
-        </PropertyValues>
-        <SelectedOptionId>0</SelectedOptionId>
-        <AutoCloseMode>None</AutoCloseMode>
-        <EnableStatus>true</EnableStatus>
-        <ExceptionHandlingMode>Default</ExceptionHandlingMode>
-        <RetryCount>-1</RetryCount>
-        <Text>Obtener productos</Text>
-        <_activityFullName>Activities.HTTP.HTTPResponsesWithFile</_activityFullName>
-      </AbstractStep>
-      <AbstractStep z:Id="i7" i:type="ExecutedStep">
-        <Childs />
         <Id>4f63e3ac-d70b-4ef8-b702-8814e58971a1</Id>
         <Parent z:Ref="i2" />
         <PropertyValues>
-          <PropertyValue z:Id="i8">
+          <PropertyValue z:Id="i4">
             <PropertyName>QueueName</PropertyName>
             <_dataType>Expression</_dataType>
             <_expression>"ProductosTiendaOnlineF"</_expression>
@@ -56,15 +18,15 @@
             <_value i:nil="true" />
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
           </PropertyValue>
-          <PropertyValue z:Id="i9">
+          <PropertyValue z:Id="i5">
             <PropertyName>Data</PropertyName>
             <_dataType>Expression</_dataType>
-            <_expression>ContentProducts</_expression>
+            <_expression>"https://fakestoreapi.com/products"</_expression>
             <_screenShotBase64 i:nil="true" />
             <_value i:nil="true" />
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
           </PropertyValue>
-          <PropertyValue z:Id="i10">
+          <PropertyValue z:Id="i6">
             <PropertyName>Priority</PropertyName>
             <_dataType>Value</_dataType>
             <_expression i:nil="true" />
@@ -72,7 +34,7 @@
             <_value xmlns:d7p1="http://schemas.datacontract.org/2004/07/Activities.Queues.Enums" i:type="d7p1:QueueItemPriority">High</_value>
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
           </PropertyValue>
-          <PropertyValue z:Id="i11">
+          <PropertyValue z:Id="i7">
             <PropertyName>DeadlineDate</PropertyName>
             <_dataType>Value</_dataType>
             <_expression i:nil="true" />
@@ -80,26 +42,10 @@
             <_value xmlns:d7p1="http://www.w3.org/2001/XMLSchema" i:type="d7p1:dateTime">2025-11-12T20:05:46</_value>
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
           </PropertyValue>
-          <PropertyValue z:Id="i12">
-            <PropertyName>SlaTotal</PropertyName>
-            <_dataType>Expression</_dataType>
-            <_expression>Status</_expression>
-            <_screenShotBase64 i:nil="true" />
-            <_value i:nil="true" />
-            <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
-          </PropertyValue>
-          <PropertyValue z:Id="i13">
+          <PropertyValue z:Id="i8">
             <PropertyName>ID</PropertyName>
             <_dataType>Expression</_dataType>
             <_expression>ID</_expression>
-            <_screenShotBase64 i:nil="true" />
-            <_value i:nil="true" />
-            <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
-          </PropertyValue>
-          <PropertyValue z:Id="i14">
-            <PropertyName>QueueItemData</PropertyName>
-            <_dataType>Expression</_dataType>
-            <_expression>QueueData</_expression>
             <_screenShotBase64 i:nil="true" />
             <_value i:nil="true" />
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
@@ -113,16 +59,16 @@
         <Text>Subir elemento a cola</Text>
         <_activityFullName>Activities.Queues.PushElement</_activityFullName>
       </AbstractStep>
-      <AbstractStep z:Id="i15" i:type="ExecutedStep">
+      <AbstractStep z:Id="i9" i:type="ExecutedStep">
         <Childs>
-          <AbstractStep z:Id="i16" i:type="ExecutedStep">
+          <AbstractStep z:Id="i10" i:type="ExecutedStep">
             <Childs>
-              <AbstractStep z:Id="i17" i:type="ExecutedStep">
+              <AbstractStep z:Id="i11" i:type="ExecutedStep">
                 <Childs />
                 <Id>7eb23945-a7cd-4ba0-b492-c675d7c0e667</Id>
-                <Parent z:Ref="i16" />
+                <Parent z:Ref="i10" />
                 <PropertyValues>
-                  <PropertyValue z:Id="i18">
+                  <PropertyValue z:Id="i12">
                     <PropertyName>FilePath</PropertyName>
                     <_dataType>Expression</_dataType>
                     <_expression>$@"Logs\{DateTime.Now:yyyy-MM-dd}.txt"</_expression>
@@ -130,7 +76,7 @@
                     <_value i:nil="true" />
                     <_xpathSettings xmlns:d11p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
                   </PropertyValue>
-                  <PropertyValue z:Id="i19">
+                  <PropertyValue z:Id="i13">
                     <PropertyName>Text</PropertyName>
                     <_dataType>Expression</_dataType>
                     <_expression>$"{DateTime.Now:yyyy-MM-dd HH:mm:ss};INFO;UploadOnedrive.pix;Archivo subido con exito\n";</_expression>
@@ -149,7 +95,7 @@
               </AbstractStep>
             </Childs>
             <Id>d6aaa45a-9f4e-452d-ad6a-dfa908fde1bd</Id>
-            <Parent z:Ref="i15" />
+            <Parent z:Ref="i9" />
             <PropertyValues />
             <SelectedOptionId i:nil="true" />
             <AutoCloseMode>None</AutoCloseMode>
@@ -159,14 +105,14 @@
             <Text></Text>
             <_activityFullName>BR.Core.Base.IfTrue</_activityFullName>
           </AbstractStep>
-          <AbstractStep z:Id="i20" i:type="ExecutedStep">
+          <AbstractStep z:Id="i14" i:type="ExecutedStep">
             <Childs>
-              <AbstractStep z:Id="i21" i:type="ExecutedStep">
+              <AbstractStep z:Id="i15" i:type="ExecutedStep">
                 <Childs />
                 <Id>3b1e06b7-afb3-430d-b14e-e06d1bac5b84</Id>
-                <Parent z:Ref="i20" />
+                <Parent z:Ref="i14" />
                 <PropertyValues>
-                  <PropertyValue z:Id="i22">
+                  <PropertyValue z:Id="i16">
                     <PropertyName>FilePath</PropertyName>
                     <_dataType>Expression</_dataType>
                     <_expression>$@"Logs\{DateTime.Now:yyyy-MM-dd}.txt"</_expression>
@@ -174,7 +120,7 @@
                     <_value i:nil="true" />
                     <_xpathSettings xmlns:d11p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
                   </PropertyValue>
-                  <PropertyValue z:Id="i23">
+                  <PropertyValue z:Id="i17">
                     <PropertyName>Text</PropertyName>
                     <_dataType>Expression</_dataType>
                     <_expression>$"{DateTime.Now:yyyy-MM-dd HH:mm:ss};INFO;UploadOnedrive.pix;Archivo subido sin exito \n";</_expression>
@@ -193,7 +139,7 @@
               </AbstractStep>
             </Childs>
             <Id>b9a9d808-b831-42dd-b754-bfbd1e659ac8</Id>
-            <Parent z:Ref="i15" />
+            <Parent z:Ref="i9" />
             <PropertyValues />
             <SelectedOptionId i:nil="true" />
             <AutoCloseMode>None</AutoCloseMode>
@@ -207,7 +153,7 @@
         <Id>c7023fdd-2335-4bed-b6ea-b6f2e2521bf7</Id>
         <Parent z:Ref="i2" />
         <PropertyValues>
-          <PropertyValue z:Id="i24">
+          <PropertyValue z:Id="i18">
             <PropertyName>Condition</PropertyName>
             <_dataType>Expression</_dataType>
             <_expression>ID != ""</_expression>

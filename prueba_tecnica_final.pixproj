@@ -71,6 +71,14 @@
       <IsMain>false</IsMain>
       <Path>Scripts\upload_file.py</Path>
     </ProjectFileItem>
+    <ProjectFileItem z:Id="i19">
+      <IsMain>false</IsMain>
+      <Path>script_tablas.sql</Path>
+    </ProjectFileItem>
+    <ProjectFileItem z:Id="i20">
+      <IsMain>false</IsMain>
+      <Path>.gitignore</Path>
+    </ProjectFileItem>
   </Files>
   <MasterUploadId i:nil="true" />
   <Name>prueba_tecnica_final</Name>
