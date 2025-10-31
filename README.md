@@ -30,7 +30,7 @@ La captura se encuentra en Evidencias
 
 ## Reporte 
 El reporte se encuentra en la carpeta RPA/Reportes
-El reporte se encuentra en la carpeta RPA/Logs
+El json se encuentra en la carpeta RPA/Logs
 
 ## Notas
 El script de las tablas se llama script_tablas.sql
