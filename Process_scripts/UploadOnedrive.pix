@@ -1383,7 +1383,7 @@ $"--client-secret \"{Config["ClientSecret"]}\" " +
                                   <PropertyValue z:Id="i147">
                                     <PropertyName>Text</PropertyName>
                                     <_dataType>Expression</_dataType>
-                                    <_expression>$"Error al ejecutar script en Python con detalles: {string.Join(Environment.NewLine, lst_exception.Select(pso =&gt; pso.ToString()))}";</_expression>
+                                    <_expression>$"Error al crear carpeta"</_expression>
                                     <_screenShotBase64 i:nil="true" />
                                     <_value i:nil="true" />
                                     <_xpathSettings xmlns:d19p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
